@@ -5,7 +5,7 @@ Branch of http://www.shaneliesegang.com/projects/coffee.php
 
 ##Instructions-##
 
-Download morningCoffee@shaneliesegang.xpi and place the file in C:\Users\%username%\AppData\Roaming\Mozilla\Firefox\Profiles\%profile name%\extensions
+Download <a href ="https://github.com/thorst/Morning-Coffee/raw/master/morningCoffee@shaneliesegang.xpi">morningCoffee@shaneliesegang.xpi</a> and place the file in C:\Users\%username%\AppData\Roaming\Mozilla\Firefox\Profiles\%profile name%\extensions
 
 ##History-##
 
