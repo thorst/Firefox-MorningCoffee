@@ -1,7 +1,7 @@
 Morning-Coffee
 ==============
 
-Branch of http://www.shaneliesegang.com/projects/coffee.php
+Branch of http://www.shaneliesegang.com/projects/coffee.php Firefox Morning Coffee Addon
 
 ##Instructions-##
 
