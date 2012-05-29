@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Abre suas Páginas Matinais em abas">
+<!ENTITY mainbutton.label "Páginas Matinais">
+<!ENTITY mainbuttonpopup.action "Carregar Minhas Páginas Matinais">
+<!ENTITY mainbuttonpopup.addto "Adicionar em Minhas Páginas Matinais">
+<!ENTITY mainbuttonpopup.addtabs "Adicionar abas atuais no My Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Todos os Dias">
+<!ENTITY mainbuttonpopup.everydayTT "Adicionar página atual na sua lista de Páginas Matinais">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Adiciona abas atuais na sua lista do My Morning Coffee">
+<!ENTITY mainbuttonpopup.sunday "Domingo">
+<!ENTITY mainbuttonpopup.sundayTT "Adicionar página atual em suas Páginas Matinais de Domingo">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Adiciona abas atuais no seu Morning Coffee de Domingo">
+<!ENTITY mainbuttonpopup.monday "Segunda-feira">
+<!ENTITY mainbuttonpopup.mondayTT "Adicionar página atual em suas Páginas Matinais de Segunda-feira">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Adiciona abas atuais no seu Morning Coffee de Segunda">
+<!ENTITY mainbuttonpopup.tuesday "Terça-feira">
+<!ENTITY mainbuttonpopup.tuesdayTT "Adicionar página atual em suas Páginas Matinais de Terça-feira">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Adiciona abas atuais no seu Morning Coffee de Terça">
+<!ENTITY mainbuttonpopup.wednesday "Quarta-feira">
+<!ENTITY mainbuttonpopup.wednesdayTT "Adicionar página atual em suas Páginas Matinais de Quarta-feira">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Adiciona abas atuais no seu Morning Coffee de Quarta">
+<!ENTITY mainbuttonpopup.thursday "Quinta-feira">
+<!ENTITY mainbuttonpopup.thursdayTT "Adicionar página atual em suas Páginas Matinais de Quinta-feira">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Adiciona abas atuais no seu Morning Coffee de Quinta">
+<!ENTITY mainbuttonpopup.friday "Sexta-feira">
+<!ENTITY mainbuttonpopup.fridayTT "Adicionar página atual em suas Páginas Matinais de Sexta-feira">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Adiciona abas atuais no seu Morning Coffee de Sexta">
+<!ENTITY mainbuttonpopup.saturday "Sábado">
+<!ENTITY mainbuttonpopup.saturdayTT "Adicionar página atual em suas Páginas Matinais de Sábado">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Adiciona abas atuais no seu Morning Coffee de Sábado">
+<!ENTITY mainbuttonpopup.mwf "Segunda/Quarta/Sexta">
+<!ENTITY mainbuttonpopup.mwfTT "Adicionar página atual em suas Páginas Matinais de SQS">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Adiciona abas atuais no seu Morning Coffee de SQS">
+<!ENTITY mainbuttonpopup.tr "Terça/Quinta">
+<!ENTITY mainbuttonpopup.trTT "Adicionar página atual em suas Páginas Matinais de TQ">
+<!ENTITY mainbuttonpopup.trTabsTT "Adiciona abas atuais no seu Morning Coffee de TQ">
+<!ENTITY mainbuttonpopup.weekdays "Dias da Semana">
+<!ENTITY mainbuttonpopup.weekdaysTT "Adicionar página atual em suas Páginas Matinais de S-S">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Adiciona abas atuais no seu Morning Coffee de S-S">
+<!ENTITY mainbuttonpopup.weekends "Finais de Semana">
+<!ENTITY mainbuttonpopup.weekendsTT "Adicionar página atual em suas Páginas Matinais de Fim de Semana">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Adiciona abas atuais no seu Morning Coffee de Fim de Semana">
+<!ENTITY mainbuttonpopup.configure "Configuração de Páginas Matinais...">
+<!ENTITY mainbuttonpopup.configureTT "Configuração de Lista de Páginas Matinais">
+<!ENTITY toolbar.name "Barra de Ferramentas de Páginas Matinais">
+<!ENTITY configAdd.title "Adicionar Endereço - Páginas Matinais">
+<!ENTITY configEdit.title "Editar Endereço - Páginas Matinais">
+<!ENTITY configAddButton.title "Adicionar...">
+<!ENTITY configEditButton.title "Editar...">
+<!ENTITY configDeleteButton.title "Excluir">
+<!ENTITY configTabClose.caption "Fechar abas antes de Abrir">
+<!ENTITY configTabClose.tt "Se esta opções estiver marcada, o Firefox irá fechar todas as abas da janela atual antes de abrir suas Páginas Matinais.">
+<!ENTITY configRandom.caption "Abrir páginas aleatoriamente">
+<!ENTITY configRandom.tt "Se esta opção estiver marcada, suas Páginas Matinais irão abrir em uma ordem aleatória.">
+<!ENTITY configHomePage.caption "Open Morning Coffee instead of your home page [BETA FEATURE]">
+<!ENTITY configHomePage.tt "If this box is checked, your Morning Coffee will be loaded whenever you open a new window. The home page button will function normally. This feature is not yet fully mature.">
+<!ENTITY mainbuttonpopup.about "Sobre Páginas Matinais...">
+<!ENTITY mainbuttonpopup.aboutTT "Exibe informações sobre esta versão do Páginas Matinais">
+<!ENTITY about.createdBy "Criado Por:">
+<!ENTITY about.thanks "Agradecimentos:">
+<!ENTITY about.translators "Tradutores:">
+<!ENTITY about.homepage "Página:">

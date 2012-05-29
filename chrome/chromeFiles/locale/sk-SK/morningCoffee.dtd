@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Stránky z Morning Coffee otvárať na kartách">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Načítať Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Pridať do Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Pridať aktuálne karty do Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Každý deň">
+<!ENTITY mainbuttonpopup.everydayTT "Pridať aktuálnu stránku do zoznamu Morning Coffee">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Pridať aktuálne karty do zoznamu Morning Coffee">
+<!ENTITY mainbuttonpopup.sunday "Nedeľa">
+<!ENTITY mainbuttonpopup.sundayTT "Pridať aktuál. stránku do zoznamu pre nedeľu">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Pridať aktuál. karty do zoznamu pre nedeľu">
+<!ENTITY mainbuttonpopup.monday "Pondelok">
+<!ENTITY mainbuttonpopup.mondayTT "Pridať aktuál. stránku do zoznamu pre pondelok">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Pridať aktuál. karty do zoznamu pre pondelok">
+<!ENTITY mainbuttonpopup.tuesday "Utorok">
+<!ENTITY mainbuttonpopup.tuesdayTT "Pridať aktuál. stránku do zoznamu pre utorok">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Pridať aktuál. karty do zoznamu pre utorok">
+<!ENTITY mainbuttonpopup.wednesday "Streda">
+<!ENTITY mainbuttonpopup.wednesdayTT "Pridať aktuál. stránku do zoznamu pre stredu">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Pridať aktuál. karty do zoznamu pre stredu">
+<!ENTITY mainbuttonpopup.thursday "Štvrtok">
+<!ENTITY mainbuttonpopup.thursdayTT "Pridať aktuál. stránku do zoznamu pre štvrtok">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Pridať aktuál. karty do zoznamu pre štvrtok">
+<!ENTITY mainbuttonpopup.friday "Piatok">
+<!ENTITY mainbuttonpopup.fridayTT "Pridať aktuál. stránku do zoznamu pre piatok">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Pridať aktuál. karty do zoznamu pre piatok">
+<!ENTITY mainbuttonpopup.saturday "Sobota">
+<!ENTITY mainbuttonpopup.saturdayTT "Pridať aktuál. stránku do zoznamu pre sobotu">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Pridať aktuál. karty do zoznamu pre sobotu">
+<!ENTITY mainbuttonpopup.mwf "Pondelok/Streda/Piatok">
+<!ENTITY mainbuttonpopup.mwfTT "Pridať aktuál. stránku do zoznamu pre pondelok/streda/piatok">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Pridať aktuál. karty do zoznamu pre pondelok/streda/piatok">
+<!ENTITY mainbuttonpopup.tr "Utorok/Štvrtok">
+<!ENTITY mainbuttonpopup.trTT "Pridať aktuál. stránku do zoznamu pre utorok/štvrtok">
+<!ENTITY mainbuttonpopup.trTabsTT "Pridať aktuál. karty do zoznamu pre utorok/štvrtok">
+<!ENTITY mainbuttonpopup.weekdays "Pracovné dni">
+<!ENTITY mainbuttonpopup.weekdaysTT "Pridať aktuál. stránku do zoznamu pre pracovný týždeň">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Pridať aktuál. karty do zoznamu pre pracovný týždeň">
+<!ENTITY mainbuttonpopup.weekends "Víkend">
+<!ENTITY mainbuttonpopup.weekendsTT "Pridať aktuál. stránku do zoznamu pre víkend">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Pridať aktuál. karty do zoznamu pre víkend">
+<!ENTITY mainbuttonpopup.configure "Konfigurácia Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "Konfigurácia vašich zoznamov Morning Coffee">
+<!ENTITY toolbar.name "Morning Coffee">
+<!ENTITY configAdd.title "Morning Coffee - Pridať URL adresu">
+<!ENTITY configEdit.title "Morning Coffee - Upraviť URL adresu">
+<!ENTITY configAddButton.title "Pridať...">
+<!ENTITY configEditButton.title "Upraviť...">
+<!ENTITY configDeleteButton.title "Odstrániť">
+<!ENTITY configTabClose.caption "Zatvoriť karty pred otvorením">
+<!ENTITY configTabClose.tt "Ak je toto políčko označené, Firefox zatvorí všetky karty v aktuálnom okne a načíta Morning Coffee.">
+<!ENTITY configRandom.caption "Otvoriť stránky v náhodnom poradí">
+<!ENTITY configRandom.tt "Ak je toto políčko označené, stránky z Morning Coffee budú otvorené v náhodnom poradí.">
+<!ENTITY configHomePage.caption "Otvoriť Morning Coffee namiesto domovskej stránky [BETA FUNKCIA]">
+<!ENTITY configHomePage.tt "Ak je toto políčko označené, Morning Coffee bude načítané pri každom otvorení nového okna. Tlačidlo domovskej stránky však bude fungovať normálne. Táto funkcia ešte nie je úplne dokončená.">
+<!ENTITY mainbuttonpopup.about "O rozšírení Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Zobraziť informácie o tejto verzii">
+<!ENTITY about.createdBy "Vytvoril:">
+<!ENTITY about.thanks "Poďakovanie:">
+<!ENTITY about.translators "Prekladatelia:">
+<!ENTITY about.homepage "Domovská stránka:">

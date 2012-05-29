@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Sabah Kahvesi sitelerinizi sekmelerde açar">
+<!ENTITY mainbutton.label "Sabah Kahvesi">
+<!ENTITY mainbuttonpopup.action "Sabah Kahvesi&apos;ni Göster">
+<!ENTITY mainbuttonpopup.addto "Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.addtabs "Şimdiki Sekmeleri Sabah Kahve&apos;me Ekle">
+<!ENTITY mainbuttonpopup.everyday "Hergün">
+<!ENTITY mainbuttonpopup.everydayTT "Geçerli sayfayı Sabah Kahvesi listesine Ekle">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Şimdiki Sekmeleri Sabah Kahvesi Listesine Ekle">
+<!ENTITY mainbuttonpopup.sunday "Pazar">
+<!ENTITY mainbuttonpopup.sundayTT "Geçerli sayfayı Pazar günleri Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Şimdiki Sekmeleri Pazar Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.monday "Pazartesi">
+<!ENTITY mainbuttonpopup.mondayTT "Geçerli sayfayı Pazartesi günleri Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Şimdiki Sekmeleri Pazartesi Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.tuesday "Salı">
+<!ENTITY mainbuttonpopup.tuesdayTT "Geçerli sayfayı Salı günleri Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Şimdiki Sekmeleri Salı Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.wednesday "Çarşamba">
+<!ENTITY mainbuttonpopup.wednesdayTT "Geçerli sayfayı Çarşamba günleri Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Şimdiki Sekmeleri Çarşamba Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.thursday "Perşembe">
+<!ENTITY mainbuttonpopup.thursdayTT "Geçerli sayfayı Perşembe günleri Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Şimdiki Sekmeleri Perşembe Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.friday "Cuma">
+<!ENTITY mainbuttonpopup.fridayTT "Geçerli sayfayı Cuma günleri Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Şimdiki Sekmeleri Cuma Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.saturday "Cumartesi">
+<!ENTITY mainbuttonpopup.saturdayTT "Geçerli sayfayı Cumartesi günleri Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Şimdiki Sekmeleri Cumartesi Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.mwf "Pazartesi/Çarşamba/Cuma">
+<!ENTITY mainbuttonpopup.mwfTT "Geçerli sayfayı Pts/Çrş/Cum Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Şimdiki Sekmeleri P-Ç-C Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.tr "Salı/Perşembe">
+<!ENTITY mainbuttonpopup.trTT "Geçerli sayfayı Sal/Prş Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.trTabsTT "Şimdiki Sekmeleri TR Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.weekdays "Hafta içi">
+<!ENTITY mainbuttonpopup.weekdaysTT "Geçerli sayfayı Pts/Cum Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Şimdiki Sekmeleri Pt-Cm Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.weekends "Hafta Sonu">
+<!ENTITY mainbuttonpopup.weekendsTT "Geçerli sayfayı Haftasonu Sabah Kahvesi&apos;ne Ekler">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Şimdiki Sekmeleri haftalık Sabah Kahvesi&apos;ne Ekle">
+<!ENTITY mainbuttonpopup.configure "Sabah Kahvesi&apos;ni Düzenle">
+<!ENTITY mainbuttonpopup.configureTT "Sabah Kahvesi Listenizi Düzenleyin">
+<!ENTITY toolbar.name "Sabah Kahvesi&apos; Araç Çubuğu">
+<!ENTITY configAdd.title "Sabah Kahvesi - Yeni URL Ekle">
+<!ENTITY configEdit.title "Sabah Kahvesi - URL Düzenle">
+<!ENTITY configAddButton.title "Ekle...">
+<!ENTITY configEditButton.title "Düzenle...">
+<!ENTITY configDeleteButton.title "Sil.">
+<!ENTITY configTabClose.caption "Açmadan Önce Diğer Sekmeleri Kapat">
+<!ENTITY configTabClose.tt "Bu kutu işaretliyse, Firefox Sabah Kahvesi&apos;ni açarken Diğer Açık Sekmeleri Kapatır">
+<!ENTITY configRandom.caption "Siteleri Rastgele Sırayla Aç">
+<!ENTITY configRandom.tt "Bu kuru işaretliyse, Sabah Kahveniz karışık sırayla açılır">
+<!ENTITY configHomePage.caption "Sabah Kahvesi&apos;ni Ana Sayfanız yerine Açın [BETA FONKSİYON]">
+<!ENTITY configHomePage.tt "u kuru işaretliyse, Sabah Kahveniz her yeni pencere açtığınızda aktif olur. Ana Sayfa buttonunu kollanmanız normaldir, Bu fonksiyon kullanım için pek uygun değildir.">
+<!ENTITY mainbuttonpopup.about "Sabah Kahvesi Hakkında...">
+<!ENTITY mainbuttonpopup.aboutTT "Sabah Kahvesi&apos;nin Bu versiyonu Hakkında Bilgi Gösterir">
+<!ENTITY about.createdBy "Program Yazarı:">
+<!ENTITY about.thanks "Teşekkür Ederiz:">
+<!ENTITY about.translators "Çevirmenler:">
+<!ENTITY about.homepage "Sabah Kahvesi(Morning Coffee) Ana Sayfası:">

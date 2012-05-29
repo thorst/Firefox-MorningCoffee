@@ -1,0 +1,58 @@
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Morning Coffee.
+#
+# The Initial Developer of the Original Code is
+# Shane J. M. Liesegang.
+# Portions created by the Initial Developer are Copyright (C) 2005
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s):
+#
+# ***** END LICENSE BLOCK *****
+
+
+content	morningcoffee	chrome/chromeFiles/content/
+skin	morningcoffee	classic/1.0 chrome/chromeFiles/skin/
+overlay	chrome://browser/content/browser.xul		chrome://morningcoffee/content/morningCoffeeOverlay.xul
+style	chrome://global/content/customizeToolbar.xul	chrome://morningcoffee/skin/morningCoffee.css
+
+locale	morningcoffee 	en-US	chrome/chromeFiles/locale/en-US/
+locale	morningcoffee	bg-BG	chrome/chromeFiles/locale/bg-BG/
+locale	morningcoffee	ca-AD	chrome/chromeFiles/locale/ca-AD/
+locale	morningcoffee	da-DK	chrome/chromeFiles/locale/da-DK/
+locale	morningcoffee	de-DE	chrome/chromeFiles/locale/de-DE/
+locale	morningcoffee	el-GR	chrome/chromeFiles/locale/el-GR/
+locale	morningcoffee	es-AR	chrome/chromeFiles/locale/es-AR/
+locale	morningcoffee	es-ES	chrome/chromeFiles/locale/es-ES/
+locale	morningcoffee	fi-FI	chrome/chromeFiles/locale/fi-FI/
+locale	morningcoffee	fr-FR	chrome/chromeFiles/locale/fr-FR/
+locale	morningcoffee	ga-IE	chrome/chromeFiles/locale/ga-IE/
+locale	morningcoffee	gl-ES	chrome/chromeFiles/locale/gl-ES/
+locale	morningcoffee	hr-HR	chrome/chromeFiles/locale/hr-HR/
+locale	morningcoffee	hu-HU	chrome/chromeFiles/locale/hu-HU/
+locale	morningcoffee	id-ID	chrome/chromeFiles/locale/id-ID/
+locale	morningcoffee	it-IT	chrome/chromeFiles/locale/it-IT/
+locale	morningcoffee	ja-JP	chrome/chromeFiles/locale/ja-JP/
+locale	morningcoffee	ko-KR	chrome/chromeFiles/locale/ko-KR/
+locale	morningcoffee	nl-NL	chrome/chromeFiles/locale/nl-NL/
+locale	morningcoffee	pl-PL	chrome/chromeFiles/locale/pl-PL/
+locale	morningcoffee	pt-BR	chrome/chromeFiles/locale/pt-BR/
+locale	morningcoffee	pt-PT	chrome/chromeFiles/locale/pt-PT/
+locale	morningcoffee	ru-RU	chrome/chromeFiles/locale/ru-RU/
+locale	morningcoffee	sk-SK	chrome/chromeFiles/locale/sk-SK/
+locale	morningcoffee	sv-SE	chrome/chromeFiles/locale/sv-SE/
+locale	morningcoffee	uk-UA	chrome/chromeFiles/locale/uk-UA/
+locale	morningcoffee	zh-CN	chrome/chromeFiles/locale/zh-CN/
+locale	morningcoffee	zh-TW	chrome/chromeFiles/locale/zh-TW/

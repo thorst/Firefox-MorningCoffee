@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="rdf:#$1bTaZ"
+                   em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
+                   em:minVersion="4.0b7"
+                   em:maxVersion="4.0.*" />
+  <RDF:Description RDF:about="urn:mozilla:install-manifest"
+                   em:id="morningCoffee@shaneliesegang"
+                   em:version="1.35"
+                   em:type="2"
+                   em:name="Morning Coffee"
+                   em:description="Keeps track of daily routine websites and opens them in tabs."
+                   em:creator="Shane J. M. Liesegang"
+                   em:homepageURL="http://www.shaneliesegang.com/misc/coffee.php"
+                   em:optionsURL="chrome://morningcoffee/content/morningCoffeeConfigDialog.xul"
+                   em:iconURL="chrome://morningcoffee/skin/icon.png"
+                   em:aboutURL="chrome://morningcoffee/content/morningCoffeeAbout.xul">
+    <em:targetApplication RDF:resource="rdf:#$1bTaZ"/>
+  </RDF:Description>
+</RDF:RDF>

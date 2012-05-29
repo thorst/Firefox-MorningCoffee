@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Άνοιγμα των ιστοσελίδων του Morning Coffee σε καρτέλες">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Φόρτωση του Morning Coffee μου">
+<!ENTITY mainbuttonpopup.addto "Προσθήκη στο Morning Coffee μου">
+<!ENTITY mainbuttonpopup.addtabs "Προσθήκη τρεχουσών καρτελών στο Morning Coffee μου">
+<!ENTITY mainbuttonpopup.everyday "Κάθημερινά">
+<!ENTITY mainbuttonpopup.everydayTT "Προσθήκη της τρέχουσας σελίδας στη λίστα του Morning Coffee">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Προσθήκη τρεχουσών καρτελών στη λίστα του Morning Coffee">
+<!ENTITY mainbuttonpopup.sunday "Κυριακή">
+<!ENTITY mainbuttonpopup.sundayTT "Προσθήκη τρέχουσας σελίδας στο κυριακάτικο Morning Coffee">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Προσθήκη τρεχουσών καρτελών στο κυριακάτικο Morning Coffee">
+<!ENTITY mainbuttonpopup.monday "Δευτέρα">
+<!ENTITY mainbuttonpopup.mondayTT "Προσθήκη τρέχουσας σελίδας στο Morning Coffee της Δευτέρας">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee της Δευτέρας">
+<!ENTITY mainbuttonpopup.tuesday "Τρίτη">
+<!ENTITY mainbuttonpopup.tuesdayTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee της Τρίτης">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee της Τρίτης">
+<!ENTITY mainbuttonpopup.wednesday "Τετάρτη">
+<!ENTITY mainbuttonpopup.wednesdayTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee της Τετάρτης">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee της Τετάρτης">
+<!ENTITY mainbuttonpopup.thursday "Πέμπτη">
+<!ENTITY mainbuttonpopup.thursdayTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee της Πέμπτης">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee της Πέμπτης">
+<!ENTITY mainbuttonpopup.friday "Παρασκευή">
+<!ENTITY mainbuttonpopup.fridayTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee της Παρασκευής">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee της Παρασκευής">
+<!ENTITY mainbuttonpopup.saturday "Σάββατο">
+<!ENTITY mainbuttonpopup.saturdayTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee του Σαββάτου">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee του Σαββάτου">
+<!ENTITY mainbuttonpopup.mwf "Δευτέρα/Τετάρτη/Παρασκευή">
+<!ENTITY mainbuttonpopup.mwfTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee Δευτέρας/Τετάρτης/Παρασκευής">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee Δευτέρας/Τετάρτης/Παρασκευής">
+<!ENTITY mainbuttonpopup.tr "Τρίτη/Πέμπτη">
+<!ENTITY mainbuttonpopup.trTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee Τρίτης/Πέμπτης">
+<!ENTITY mainbuttonpopup.trTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee Τρίτης/Πέμπτης">
+<!ENTITY mainbuttonpopup.weekdays "Εργάσιμες">
+<!ENTITY mainbuttonpopup.weekdaysTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee εργάσιμων ημερών">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee εργάσιμων ημερών">
+<!ENTITY mainbuttonpopup.weekends "Σαββατοκύριακα">
+<!ENTITY mainbuttonpopup.weekendsTT "Προσθήκη  τρέχουσας σελίδας στο Morning Coffee Σαββατοκύριακων">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Προσθήκη τρεχουσών καρτελών στο Morning Coffee Σαββατοκύριακων">
+<!ENTITY mainbuttonpopup.configure "Ρυθμίσεις Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "Ρυθμίστε τις λίστες του Morning Coffee">
+<!ENTITY toolbar.name "Εργαλειοθήκη Morning Coffee">
+<!ENTITY configAdd.title "Morning Coffee - Προσθήκη URL">
+<!ENTITY configEdit.title "Morning Coffee - Επεξεργασία URL">
+<!ENTITY configAddButton.title "Προσθήκη">
+<!ENTITY configEditButton.title "Επεξεργασία">
+<!ENTITY configDeleteButton.title "Διαγραφή">
+<!ENTITY configTabClose.caption "Κλείσιμο των καρτελών πριν το άνοιγμα">
+<!ENTITY configTabClose.tt "Αν αυτή η επιλογή είναι ενεργοποιημένη, ο Firefox θα κλείσει όλες τις καρτέλες του παραθύρου πριν ανοίξουν αυτές του Morning Coffee">
+<!ENTITY configRandom.caption "Άνοιγμα ιστοσελίδων με τυχαία σειρά">
+<!ENTITY configRandom.tt "Αν αυτή η επιλογή είναι ενεργοποιημένη, οι ιστοσελίδες του Morning Coffee θα ανοιχθούν με τυχαία σειρά">
+<!ENTITY configHomePage.caption "Άνοιγμα του Morning Coffee αντί για την αρχική σελίδα σας [σε φάση ανάπτυξης]">
+<!ENTITY configHomePage.tt "Αν τσεκάρετε αυτή την επιλογή, θα φορτώνεται το Morning Coffee όταν ανοίγετε ένα νέο παράθυρο. Το κουμπί αρχικής σελίδας θα λειτουργεί κανονικά. Το χαρακτηριστικό αυτό δεν έχει ολοκληρωθεί ακόμα">
+<!ENTITY mainbuttonpopup.about "Περί Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Εμφάνιση πληροφοριών της τρέχουσας έκδοσης του Morning Coffee">
+<!ENTITY about.createdBy "Δημιουργός :">
+<!ENTITY about.thanks "Ευχαριστίες :">
+<!ENTITY about.translators "Μεταφραστές :">
+<!ENTITY about.homepage "Αρχική σελίδα :">

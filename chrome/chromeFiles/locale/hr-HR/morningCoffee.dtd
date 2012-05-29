@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Otvara web stranice Vaše Morning Coffee u karticama">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Učitaj moju Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Dodaj u moju Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Dodaj trenutne kartice u My Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Svaki dan">
+<!ENTITY mainbuttonpopup.everydayTT "Dodaj trenutnu stranicu u Vaš Morning Coffee popis">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee popis">
+<!ENTITY mainbuttonpopup.sunday "Nedjelja">
+<!ENTITY mainbuttonpopup.sundayTT "Dodaj trenutnu stranicu u Vaš Morning Coffee za nedjelju">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee za nedjelju">
+<!ENTITY mainbuttonpopup.monday "Ponedjeljak">
+<!ENTITY mainbuttonpopup.mondayTT "Dodaj trenutnu stranicu u Vaš Morning Coffee za ponedjeljak">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee za ponedjeljak">
+<!ENTITY mainbuttonpopup.tuesday "Utorak">
+<!ENTITY mainbuttonpopup.tuesdayTT "Dodaj trenutnu stranicu u Vaš Morning Coffee za utorak">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee za utorak">
+<!ENTITY mainbuttonpopup.wednesday "Srijeda">
+<!ENTITY mainbuttonpopup.wednesdayTT "Dodaj trenutnu stranicu u Vaš Morning Coffee za srijedu">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee za srijedu">
+<!ENTITY mainbuttonpopup.thursday "Četvrtak">
+<!ENTITY mainbuttonpopup.thursdayTT "Dodaj trenutnu stranicu u Vaš Morning Coffee za četvrtak">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee za četvrtak">
+<!ENTITY mainbuttonpopup.friday "Petak">
+<!ENTITY mainbuttonpopup.fridayTT "Dodaj trenutnu stranicu u Vaš Morning Coffee za petak">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee za petak">
+<!ENTITY mainbuttonpopup.saturday "Subota">
+<!ENTITY mainbuttonpopup.saturdayTT "Dodaj trenutnu stranicu u Vaš Morning Coffee za subotu">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee za subotu">
+<!ENTITY mainbuttonpopup.mwf "Ponedjeljak/Srijeda/Petak">
+<!ENTITY mainbuttonpopup.mwfTT "Dodaj trenutnu stranicu u Vaš PSP Morning Coffee">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Dodaje trenutne kartice u Vaš PSP Morning Coffee">
+<!ENTITY mainbuttonpopup.tr "Utorak/Četvrtak">
+<!ENTITY mainbuttonpopup.trTT "Dodaj trenutnu stranicu u Vaš UČ Morning Coffee">
+<!ENTITY mainbuttonpopup.trTabsTT "Dodaje trenutne kartice u Vaš UČ Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdays "Radni dani">
+<!ENTITY mainbuttonpopup.weekdaysTT "Dodaj trenutnu stranicu u Vaš P-P Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Dodaje trenutne kartice u Vaš P-P Morning Coffee">
+<!ENTITY mainbuttonpopup.weekends "Vikendi">
+<!ENTITY mainbuttonpopup.weekendsTT "Dodaj trenutnu stranicu u Vaš Morning Coffee za vikend">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Dodaje trenutne kartice u Vaš Morning Coffee za vikend">
+<!ENTITY mainbuttonpopup.configure "Konfiguriraj Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "Konfigurira Vaš Morning Coffee popis">
+<!ENTITY toolbar.name "Morning Coffee alatna traka">
+<!ENTITY configAdd.title "MorningCoffee - Dodaj web adresu">
+<!ENTITY configEdit.title "Morning Coffee - Uredi web adresu">
+<!ENTITY configAddButton.title "Dodaj...">
+<!ENTITY configEditButton.title "Uredi...">
+<!ENTITY configDeleteButton.title "Obriši">
+<!ENTITY configTabClose.caption "Zatvori kartice prije otvaranja">
+<!ENTITY configTabClose.tt "Ako je označena ova opcija, Firefox će zatvoriti sve kartice u trenutnom prozoru prije nego li otvori Vašu Morning Coffee.">
+<!ENTITY configRandom.caption "Otvori stranice nasumce">
+<!ENTITY configRandom.tt "Ako je označena ova opcija, Vaša Morning Coffee će biti otvorena nasumce.">
+<!ENTITY configHomePage.caption "Otvara Morning Coffee umjesto Vaše početne stranice [BETA SVOJSTVO]">
+<!ENTITY configHomePage.tt "Ako je označena ova kučica, Vaša Morning Coffee će biti učitana kadgod otvorite novi prozor. Gumg početne stranice će normalno funkcionirati. Ova osobina još nije potpuno razvijena.">
+<!ENTITY mainbuttonpopup.about "O Morning Cofee">
+<!ENTITY mainbuttonpopup.aboutTT "Prikaži informaciju o ovoj inačici Morning Coffe">
+<!ENTITY about.createdBy "Kreirao:">
+<!ENTITY about.thanks "Zahvale:">
+<!ENTITY about.translators "Prevoditelji:">
+<!ENTITY about.homepage "Početna stranica:">

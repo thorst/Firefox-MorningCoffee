@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Morning Coffee.
+   -
+   - The Initial Developer of the Original Code is
+   - Shane J. M. Liesegang.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): 
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!DOCTYPE overlay SYSTEM "chrome://morningcoffee/locale/morningCoffee.dtd">
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<dialog xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+	id="MorningCoffee-ConfigDialog" title="&mainbutton.label;"
+	button="accept,cancel"
+	onload="morningCoffee_main.OnConfigLoad();"
+	ondialogaccept="return morningCoffee_main.OnConfigAccept();"
+	ondialogcancel="return morningCoffee_main.OnConfigCancel();">
+
+	<script type="application/x-javascript"
+		src="chrome://morningCoffee/content/morningCoffee.js"/>
+
+	<hbox flex="1">
+		<listbox 
+            width="100"
+			id="MorningCoffee-Config_dayListBox"
+			rows="8"
+			onselect="morningCoffee_main.OnConfigDayListBoxSelect();"
+			>
+			<listitem label="&mainbuttonpopup.everyday;" />
+			<listitem label="&mainbuttonpopup.sunday;" />
+			<listitem label="&mainbuttonpopup.monday;" />
+			<listitem label="&mainbuttonpopup.tuesday;" />
+			<listitem label="&mainbuttonpopup.wednesday;" />
+			<listitem label="&mainbuttonpopup.thursday;" />
+			<listitem label="&mainbuttonpopup.friday;" />
+			<listitem label="&mainbuttonpopup.saturday;" />
+		</listbox>
+
+		<listbox
+			id="MorningCoffee-Config_urlListBox"
+			rows="7"
+			disabled="true"
+			onselect="morningCoffee_main.OnConfigURLListBoxSelect();"
+			/>
+		<vbox>
+			<image 
+				src="chrome://morningcoffee/skin/up_arrow_disabled.png"
+				id="MorningCoffee-Config_moveURLUpButton"
+				onclick="morningCoffee_main.OnMoveURLUpClick();"
+				disabled="true"
+				/>
+			
+			<spacer flex="1" />
+			
+			<image 
+				src="chrome://morningcoffee/skin/down_arrow_disabled.png"
+				id="MorningCoffee-Config_moveURLDownButton"
+				onclick="morningCoffee_main.OnMoveURLDownClick();"
+				disabled="true"
+				/>
+		</vbox>
+
+		<vbox>
+			<button
+				id="MorningCoffee-Config_addURLButton"
+				label="&configAddButton.title;"
+				onclick="morningCoffee_main.OnConfigAddURLClick();"
+				disabled="true"
+				/>
+			<button
+				id="MorningCoffee-Config_editURLButton"
+				label="&configEditButton.title;"
+				onclick="morningCoffee_main.OnConfigEditURLClick();"
+				disabled="true"
+				/>
+			<button
+				id="MorningCoffee-Config_deleteURLButton"
+				label="&configDeleteButton.title;"
+				onclick="morningCoffee_main.OnConfigDeleteURLClick();"
+				disabled="true"
+				/>
+		</vbox>
+	</hbox>
+
+	<separator class="groove" />
+
+	<vbox>
+		<tooltip id="MorningCoffee_configCloseTabsToolTip"
+			label="&configTabClose.tt;" 
+			noautohide="false"
+			style="max-height: none; max-width: none;"
+			/>
+		<tooltip id="MorningCoffee_configRandomOrderToolTip"
+			label="&configRandom.tt;" 
+			noautohide="false"
+			style="max-height: none; max-width: none;"
+			/>
+		<tooltip id="MorningCoffee_configHomePageToolTip"
+			label="&configHomePage.tt;"
+			noautohide="false"
+			style="max-height: none; max-width: none;"
+			/>
+
+		<checkbox
+			label="&configTabClose.caption;" 
+			id="MorningCoffee_configCloseCurrentTabsCheckBox" 
+			tooltip="MorningCoffee_configCloseTabsToolTip"
+			/>
+		<checkbox 
+			label="&configRandom.caption;" 
+			id="MorningCoffee_configRandomizeOrderingCheckBox" 
+			tooltip="MorningCoffee_configRandomOrderToolTip"
+			/>
+		<checkbox
+			label="&configHomePage.caption;"
+			id="MorningCoffee_configOpenAsHomePage"
+			tooltip="MorningCoffee_configHomePageToolTip"
+			disabled="false"
+			/>
+	</vbox>
+
+</dialog>
+
+

@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "여러분의 Morning Coffee 웹사이트를 탭에 열기">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "내 Morning Coffee 로드">
+<!ENTITY mainbuttonpopup.addto "내 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.addtabs "현재 탭을 내 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.everyday "매일">
+<!ENTITY mainbuttonpopup.everydayTT "현재 페이지를 여러분의 Morning Coffee 목록에 추가">
+<!ENTITY mainbuttonpopup.everydayTabsTT "현재 탭을 여러분의 Morning Coffee 목록에 추가">
+<!ENTITY mainbuttonpopup.sunday "일요일">
+<!ENTITY mainbuttonpopup.sundayTT "현재 페이지를 여러분의 일요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.sundayTabsTT "현재 탭을 여러분의 일요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.monday "월요일">
+<!ENTITY mainbuttonpopup.mondayTT "현재 페이지를 여러분의 월요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.mondayTabsTT "현재 탭을 여러분의 월요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.tuesday "화요일">
+<!ENTITY mainbuttonpopup.tuesdayTT "현재 페이지를 여러분의 화요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "현재 탭을 여러분의 화요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.wednesday "수요일">
+<!ENTITY mainbuttonpopup.wednesdayTT "현재 페이지를 여러분의 수요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "현재 탭을 여러분의 수요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.thursday "목요일">
+<!ENTITY mainbuttonpopup.thursdayTT "현재 페이지를 여러분의 목요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "현재 탭을 여러분의 목요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.friday "금요일">
+<!ENTITY mainbuttonpopup.fridayTT "현재 페이지를 여러분의 금요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.fridayTabsTT "현재 탭을 여러분의 금요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.saturday "토요일">
+<!ENTITY mainbuttonpopup.saturdayTT "현재 페이지를 여러분의 토요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "현재 탭을 여러분의 토요일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.mwf "월요일/수요일/금요일">
+<!ENTITY mainbuttonpopup.mwfTT "현재 페이지를 여러분의 월수금 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.mwfTabsTT "현재 탭을 여러분의 월수금 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.tr "화요일/목요일">
+<!ENTITY mainbuttonpopup.trTT "현재 페이지를 여러분의 화목 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.trTabsTT "현재 탭을 여러분의 화목 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.weekdays "평일">
+<!ENTITY mainbuttonpopup.weekdaysTT "현재 페이지를 여러분의 평일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "현재 탭을 여러분의 평일 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.weekends "주말">
+<!ENTITY mainbuttonpopup.weekendsTT "현재 페이지를 여러분의 주말 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "현재 탭을 여러분의 주말 Morning Coffee에 추가">
+<!ENTITY mainbuttonpopup.configure "Morning Coffee 구성...">
+<!ENTITY mainbuttonpopup.configureTT "여러분의 Morning Coffee 목록 구성">
+<!ENTITY toolbar.name "Morning Coffee 도구 모음">
+<!ENTITY configAdd.title "Morning Coffee - URL 추가">
+<!ENTITY configEdit.title "Morning Coffee - URL 편집">
+<!ENTITY configAddButton.title "추가...">
+<!ENTITY configEditButton.title "편집...">
+<!ENTITY configDeleteButton.title "지움">
+<!ENTITY configTabClose.caption "열기 전에 탭 닫기">
+<!ENTITY configTabClose.tt "체크하면, Firefox는 여러분의 Morning Coffee를 열기 앞서 현재 창의 모든 탭을 닫습니다.">
+<!ENTITY configRandom.caption "무작위로 사이트 열기">
+<!ENTITY configRandom.tt "체크하면, 여러분의 Morning Coffee를 무작위로 엽니다.">
+<!ENTITY configHomePage.caption "여러분의 홈 페이지 대신 Morning Coffee 열기 [BETA 기능]">
+<!ENTITY configHomePage.tt "체크하면, 여러분이 새 창을 열 때마다 Morning Coffee를 로드합니다. 홈 페이지 버튼은 정상 기능합니다. 이 기능은 아직 충분히 완성되지 않았습니다.">
+<!ENTITY mainbuttonpopup.about "Morning Coffee 정보...">
+<!ENTITY mainbuttonpopup.aboutTT "Morning Coffee 이 버전에 관한 정보를 표시">
+<!ENTITY about.createdBy "제작자:">
+<!ENTITY about.thanks "감사:">
+<!ENTITY about.translators "번역자:">
+<!ENTITY about.homepage "홈 페이지:">

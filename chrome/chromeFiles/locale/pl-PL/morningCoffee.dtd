@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Otwiera twoje ulubione witryny internetowe w kartach">
+<!ENTITY mainbutton.label "Poranna kawa">
+<!ENTITY mainbuttonpopup.action "Otwórz ulubione">
+<!ENTITY mainbuttonpopup.addto "Dodaj">
+<!ENTITY mainbuttonpopup.addtabs "Dodaje aktywne karty do ulubionych">
+<!ENTITY mainbuttonpopup.everyday "Wszystkie dni">
+<!ENTITY mainbuttonpopup.everydayTT "Dodaje aktywną stronę do witryn otwieranych we wszystkie dni tygodnia">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Dodaje aktywne karty do listy ulubionych">
+<!ENTITY mainbuttonpopup.sunday "Niedziela">
+<!ENTITY mainbuttonpopup.sundayTT "Dodaje aktywną stronę do witryn otwieranych w Niedzielę">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Dodaje aktywne karty do witryn otwieranych w Niedzielę">
+<!ENTITY mainbuttonpopup.monday "Poniedziałek">
+<!ENTITY mainbuttonpopup.mondayTT "Dodaje aktywną stronę do witryn otwieranych w Poniedziałek">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Dodaje aktywne karty do witryn otwieranych w Poniedziałek">
+<!ENTITY mainbuttonpopup.tuesday "Wtorek">
+<!ENTITY mainbuttonpopup.tuesdayTT "Dodaje aktywną stronę do witryn otwieranych we Wtorek">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Dodaje aktywne karty do witryn otwieranych we Wtorek">
+<!ENTITY mainbuttonpopup.wednesday "Środa">
+<!ENTITY mainbuttonpopup.wednesdayTT "Dodaje aktywną stronę do witryn otwieranych w Środę">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Dodaje aktywne karty do witryn otwieranych w Środę">
+<!ENTITY mainbuttonpopup.thursday "Czwartek">
+<!ENTITY mainbuttonpopup.thursdayTT "Dodaje aktywną stronę do witryn otwieranych w Czwartek">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Dodaje aktywne karty do witryn otwieranych w Czwartek">
+<!ENTITY mainbuttonpopup.friday "Piątek">
+<!ENTITY mainbuttonpopup.fridayTT "Dodaje aktywną stronę do witryn otwieranych w Piątek">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Dodaje aktywne karty do witryn otwieranych w Piątek">
+<!ENTITY mainbuttonpopup.saturday "Sobota">
+<!ENTITY mainbuttonpopup.saturdayTT "Dodaje aktywną stronę do witryn otwieranych w Sobotę">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Dodaje aktywne karty do witryn otwieranych w Sobotę">
+<!ENTITY mainbuttonpopup.mwf "Poniedziałek/Środa?Piątek">
+<!ENTITY mainbuttonpopup.mwfTT "Dodaje aktywną stronę do witryn otwieranych w Pon/Śr/Pią">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Dodaje aktywne karty do witryn otwieranych w Pon/Śr/Pią">
+<!ENTITY mainbuttonpopup.tr "Środa/Czwartek">
+<!ENTITY mainbuttonpopup.trTT "Dodaje aktywną stronę do witryn otwieranych w Śr/Czw">
+<!ENTITY mainbuttonpopup.trTabsTT "Dodaje aktywne karty do witryn otwieranych w Śr/Czw">
+<!ENTITY mainbuttonpopup.weekdays "Dni tygodnia">
+<!ENTITY mainbuttonpopup.weekdaysTT "Dodaje aktywną stronę do witryn otwieranych w Pon/Pią">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Dodaje aktywne karty do witryn otwieranych w Pon/Pią">
+<!ENTITY mainbuttonpopup.weekends "Weekend">
+<!ENTITY mainbuttonpopup.weekendsTT "Dodaje aktywną stronę do witryn otwieranych w weekendy">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Dodaje aktywne karty do witryn otwieranych w weekendy">
+<!ENTITY mainbuttonpopup.configure "Konfiguruj">
+<!ENTITY mainbuttonpopup.configureTT "Konfiguracja listy twoich ulubionych witryn">
+<!ENTITY toolbar.name "Pasek ulubionych">
+<!ENTITY configAdd.title "Dodawanie adresu URL witryny">
+<!ENTITY configEdit.title "Edycja adresu URL">
+<!ENTITY configAddButton.title "Dodaj">
+<!ENTITY configEditButton.title "Edytuj">
+<!ENTITY configDeleteButton.title "Usuń">
+<!ENTITY configTabClose.caption "Zamknij inne karty">
+<!ENTITY configTabClose.tt "Przed otwarciem ulubionych witryn wszystkie karty w aktywnym oknie zostaną zamknięte">
+<!ENTITY configRandom.caption "Otwieraj witryny losowo">
+<!ENTITY configRandom.tt "Twoje ulubione witryny będą się otwierały w kolejności losowej">
+<!ENTITY configHomePage.caption "Otwieraj witryny &quot;Morning Coffe&quot; zamiast strony domowej (funkcja w wersji Beta)">
+<!ENTITY configHomePage.tt "Jeśli ta opcja jest zaznaczona witryny zadeklarowane w &quot;Morning Coffe&quot; będą zawsze otwierane, gdy jest otwierane nowe okno. Przycisk strony startowej działa normalnie. Funkcja ta jest jeszcze w fazie rozwojowej.">
+<!ENTITY mainbuttonpopup.about "O Morning Coffee">
+<!ENTITY mainbuttonpopup.aboutTT "Wyświetl infomację o wersji Morning Coffee">
+<!ENTITY about.createdBy "Autor:">
+<!ENTITY about.thanks "Podziękowania dla:">
+<!ENTITY about.translators "Tłumacze:">
+<!ENTITY about.homepage "Strona domowa:">

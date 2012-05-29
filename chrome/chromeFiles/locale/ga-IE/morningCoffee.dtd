@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Oscail do láithreáin gréasáin Morning Coffee i gcluaisíní">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Luchtaigh Mo Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Cuir le Mo Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Cuir cluaisíní reatha le Mo Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Gach Lá">
+<!ENTITY mainbuttonpopup.everydayTT "Cuir an leathanach reatha le do réim Morning Coffee">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Cuir na cluaisíní reatha le do réim Morning Coffee">
+<!ENTITY mainbuttonpopup.sunday "Dé Domhnaigh">
+<!ENTITY mainbuttonpopup.sundayTT "Cuir an leathanach reatha le do Morning Coffee Dé Domhnaigh">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Cuir na cluaisíní reatha le do Morning Coffee Dé Domhnaigh">
+<!ENTITY mainbuttonpopup.monday "Dé Luain">
+<!ENTITY mainbuttonpopup.mondayTT "Cuir an leathanach reatha le do Morning Coffee Dé Luain">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Cuir na cluaisíní reatha le do Morning Coffee Dé Luain">
+<!ENTITY mainbuttonpopup.tuesday "Dé Máirt">
+<!ENTITY mainbuttonpopup.tuesdayTT "Cuir an leathanach reatha le do Morning Coffee Dé Máirt">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Cuir na cluaisíní reatha le Morning Coffee Dé Máirt">
+<!ENTITY mainbuttonpopup.wednesday "Dé Céadáoin">
+<!ENTITY mainbuttonpopup.wednesdayTT "Cuir an leathanach reatha le do Morning Coffee Dé Céadaoin">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Cuir na cluaisíní reatha le do Morning Coffee Dé Céadaoin">
+<!ENTITY mainbuttonpopup.thursday "Déardaoin">
+<!ENTITY mainbuttonpopup.thursdayTT "Cuir an leathanach reatha le do Morning Coffee Déardaoin">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Cuir na cluaisíní reatha le do Morning Coffee Déardaoin">
+<!ENTITY mainbuttonpopup.friday "Dé hAoine">
+<!ENTITY mainbuttonpopup.fridayTT "Cuir an leathanach reatha le do Morning Coffee Dé hAoine">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Cuir na cluaisíní reatha le do Morning Coffee Dé hAoine">
+<!ENTITY mainbuttonpopup.saturday "Dé Sathairn">
+<!ENTITY mainbuttonpopup.saturdayTT "Cuir an leathanach reatha le do Morning Coffee Dé Sathairn">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Cuir na cluaisíní reatha le do Morning Coffee Dé Sathairn">
+<!ENTITY mainbuttonpopup.mwf "Dé Luain/Dé Céadaoin/Dé hAoine">
+<!ENTITY mainbuttonpopup.mwfTT "Cuir an leathanach reatha le do Morning Coffee LCA">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Cuir na cluaisíní reatha le do Morning Coffee LCA">
+<!ENTITY mainbuttonpopup.tr "Dé Máirt/Déardaoin">
+<!ENTITY mainbuttonpopup.trTT "Cuir an leathanach reatha le do Morning Coffee MD">
+<!ENTITY mainbuttonpopup.trTabsTT "Cuir na cluaisíní reatha le do Morning Coffee MD">
+<!ENTITY mainbuttonpopup.weekdays "Leathanta na Seachtaine">
+<!ENTITY mainbuttonpopup.weekdaysTT "Cuir an leathanach reatha le do Morning Coffee L-A">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Cuir na cluaisíní reatha le do Morning Coffee L-A Dé Domhnaigh">
+<!ENTITY mainbuttonpopup.weekends "Deiridh Seachtaine">
+<!ENTITY mainbuttonpopup.weekendsTT "Cuir an leathanach reatha le do Morning Coffee deireadh seachtaine">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Cuir na cluaisíní reatha le do Morning Coffee deireadh seachtaine">
+<!ENTITY mainbuttonpopup.configure "Cumraigh Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "Cumraigh do réimeanna Morning Coffee">
+<!ENTITY toolbar.name "Sabh Uirlisí Morning Coffee">
+<!ENTITY configAdd.title "Morning Coffee - Cuir URL le">
+<!ENTITY configEdit.title "Morning Coffee - Déan Eagarthóireacht ar URL">
+<!ENTITY configAddButton.title "Cuir le...">
+<!ENTITY configEditButton.title "Déan Eagarthóireacht Air...">
+<!ENTITY configDeleteButton.title "Scrios">
+<!ENTITY configTabClose.caption "Dún Cluaisíní Roimh Oscailt">
+<!ENTITY configTabClose.tt "Má tá an bosca seo aibhsithe, dúnfaidh Firefox na cluaisíní uile san fhuinneog reatha roimh do Morning Coffee a oscailt.">
+<!ENTITY configRandom.caption "Oscail Láithreáin in Eagar Fánach">
+<!ENTITY configRandom.tt "Má tá an bosca seo aibhsithe, osclófar do Morning Coffee in eagar fánach.">
+<!ENTITY configHomePage.caption "Oscail Morning Coffee in ionad do chlár cinn. [GNÉ BETA]">
+<!ENTITY configHomePage.tt "Má tá an bosca seo aibhsithe, luchtófar do Morning Coffee aon uair a osclaíonn tú fuinneog nua. Feidhmeoidh an cnaipe clár cinn mar is gnáth. Níl an gné seo lán aibí.">
+<!ENTITY mainbuttonpopup.about "Maidir le Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Taispeán eolas maidir leis an leagan seo de Morning Coffee">
+<!ENTITY about.createdBy "Cruthaithe Ag:">
+<!ENTITY about.thanks "Buíochas Do:">
+<!ENTITY about.translators "Aistritheoirí:">
+<!ENTITY about.homepage "Clár Cinn">

@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "在标签中打开您的 Morning Coffee 网站">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "载入我的 Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "添加到我的 Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "添加当前全部标签到我的 Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "每天">
+<!ENTITY mainbuttonpopup.everydayTT "添加当前页面到您的 Morning Coffee 列表">
+<!ENTITY mainbuttonpopup.everydayTabsTT "添加当前全部标签到您的 Morning Coffee 列表">
+<!ENTITY mainbuttonpopup.sunday "星期天">
+<!ENTITY mainbuttonpopup.sundayTT "添加当前页面到您的星期日 Morning Coffee">
+<!ENTITY mainbuttonpopup.sundayTabsTT "添加当前全部标签到您的星期日 Morning Coffee">
+<!ENTITY mainbuttonpopup.monday "星期一">
+<!ENTITY mainbuttonpopup.mondayTT "添加当前页面到您的星期一 Morning Coffee">
+<!ENTITY mainbuttonpopup.mondayTabsTT "添加当前全部标签到您的星期一 Morning Coffee">
+<!ENTITY mainbuttonpopup.tuesday "星期二">
+<!ENTITY mainbuttonpopup.tuesdayTT "添加当前页面到您的星期二 Morning Coffee">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "添加当前全部标签到您的星期二 Morning Coffee">
+<!ENTITY mainbuttonpopup.wednesday "星期三">
+<!ENTITY mainbuttonpopup.wednesdayTT "添加当前页面到您的星期三 Morning Coffee">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "添加当前全部标签到您的星期三 Morning Coffee">
+<!ENTITY mainbuttonpopup.thursday "星期四">
+<!ENTITY mainbuttonpopup.thursdayTT "添加当前页面到您的星期四 Morning Coffee">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "添加当前全部标签到您的星期四 Morning Coffee">
+<!ENTITY mainbuttonpopup.friday "星期五">
+<!ENTITY mainbuttonpopup.fridayTT "添加当前页面到您的星期五 Morning Coffee">
+<!ENTITY mainbuttonpopup.fridayTabsTT "添加当前全部标签到您的星期五 Morning Coffee">
+<!ENTITY mainbuttonpopup.saturday "星期六">
+<!ENTITY mainbuttonpopup.saturdayTT "添加当前页面到您的星期六 Morning Coffee">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "添加当前全部标签到您的星期六 Morning Coffee">
+<!ENTITY mainbuttonpopup.mwf "星期一/星期三/星期五">
+<!ENTITY mainbuttonpopup.mwfTT "添加当前页面到您的星期一三五 Morning Coffee">
+<!ENTITY mainbuttonpopup.mwfTabsTT "添加当前全部标签到您的星期一三五 Morning Coffee">
+<!ENTITY mainbuttonpopup.tr "星期二/星期四">
+<!ENTITY mainbuttonpopup.trTT "添加当前页面到您的星期二星期四 Morning Coffee">
+<!ENTITY mainbuttonpopup.trTabsTT "添加当前全部标签到您的星期二星期四 Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdays "平日">
+<!ENTITY mainbuttonpopup.weekdaysTT "添加当前页面到您的平日 Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "添加当前全部标签到您的平日 Morning Coffee">
+<!ENTITY mainbuttonpopup.weekends "周末">
+<!ENTITY mainbuttonpopup.weekendsTT "添加当前页面到您的周末 Morning Coffee">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "添加当前全部标签到您的周末 Morning Coffee">
+<!ENTITY mainbuttonpopup.configure "设置 Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "设置您的 Morning Coffee 列表">
+<!ENTITY toolbar.name "Morning Coffee 工具栏">
+<!ENTITY configAdd.title "Morning Coffee - 添加 URL">
+<!ENTITY configEdit.title "Morning Coffee - 编辑 URL">
+<!ENTITY configAddButton.title "新增...">
+<!ENTITY configEditButton.title "修改...">
+<!ENTITY configDeleteButton.title "删除">
+<!ENTITY configTabClose.caption "打开前关闭所有标签">
+<!ENTITY configTabClose.tt "如果选中此选项，Firefox 会关闭当前窗口的所有标签，然后打开您的 Morning Coffee。">
+<!ENTITY configRandom.caption "使用随机次序打开网站">
+<!ENTITY configRandom.tt "选中该选项，Morning Coffee 会使用随机次序打开。">
+<!ENTITY configHomePage.caption "使用 Morning Coffee 取代您的主页[测试版特性]">
+<!ENTITY configHomePage.tt "选择该项后，打开一个新窗口后，Morning Coffee 会自动加载。主页按钮也能正常工作。此特性不太成熟。">
+<!ENTITY mainbuttonpopup.about "关于 Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "显示 Morning Coffee 此版本的信息">
+<!ENTITY about.createdBy "作者：">
+<!ENTITY about.thanks "感谢：">
+<!ENTITY about.translators "翻译者：">
+<!ENTITY about.homepage "主页：">

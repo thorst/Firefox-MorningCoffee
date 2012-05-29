@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Открывать сайты во вкладках">
+<!ENTITY mainbutton.label "Утренний кофе с интернетом">
+<!ENTITY mainbuttonpopup.action "Загрузить список сайтов">
+<!ENTITY mainbuttonpopup.addto "Добавить сайт в список">
+<!ENTITY mainbuttonpopup.addtabs "Добавить открытые вкладки в список">
+<!ENTITY mainbuttonpopup.everyday "Каждый день">
+<!ENTITY mainbuttonpopup.everydayTT "Добавить текущую страницу в список на каждый день">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Добавить открытые вкладки в список на каждый день">
+<!ENTITY mainbuttonpopup.sunday "Воскресенье">
+<!ENTITY mainbuttonpopup.sundayTT "Добавить текущую страницу в список на воскресенье">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Добавить открытые вкладки в список на воскресенье">
+<!ENTITY mainbuttonpopup.monday "Понедельник">
+<!ENTITY mainbuttonpopup.mondayTT "Добавить текущую страницу в список на понедельник">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Добавить открытые вкладки в список на понедельник">
+<!ENTITY mainbuttonpopup.tuesday "Вторник">
+<!ENTITY mainbuttonpopup.tuesdayTT "Добавить текущую страницу в список на вторник">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Добавить открытые вкладки в список на вторник">
+<!ENTITY mainbuttonpopup.wednesday "Среда">
+<!ENTITY mainbuttonpopup.wednesdayTT "Добавить текущую страницу в список на среду">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Добавить открытые вкладки в список на среду">
+<!ENTITY mainbuttonpopup.thursday "Четверг">
+<!ENTITY mainbuttonpopup.thursdayTT "Добавить текущую страницу в список на четверг">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Добавить открытые вкладки в список на четверг">
+<!ENTITY mainbuttonpopup.friday "Пятница">
+<!ENTITY mainbuttonpopup.fridayTT "Добавить текущую страницу в список на пятницу">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Добавить открытые вкладки в список на пятницу">
+<!ENTITY mainbuttonpopup.saturday "Суббота">
+<!ENTITY mainbuttonpopup.saturdayTT "Добавить текущую страницу в список на субботу">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Добавить открытые вкладки в список на субботу">
+<!ENTITY mainbuttonpopup.mwf "Понедельни/Среда/Пятница">
+<!ENTITY mainbuttonpopup.mwfTT "Добавить текущую страницу в список на Пн/Ср/Пт">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Добавить открытые вкладки в список на Пн/Ср/Пт">
+<!ENTITY mainbuttonpopup.tr "Вторник/Четверг">
+<!ENTITY mainbuttonpopup.trTT "Добавить текущую страницу в список на Вт/Чт">
+<!ENTITY mainbuttonpopup.trTabsTT "Добавить открытые вкладки в список на Вт/Чт">
+<!ENTITY mainbuttonpopup.weekdays "Рабочие дни">
+<!ENTITY mainbuttonpopup.weekdaysTT "Добавить текущую страницу в список для рабочих дней">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Добавить открытые вкладки в список для рабочих дней">
+<!ENTITY mainbuttonpopup.weekends "Выходные">
+<!ENTITY mainbuttonpopup.weekendsTT "Добавить текущую страницу в список на выходные">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Добавить открытые вкладки в список на выходные">
+<!ENTITY mainbuttonpopup.configure "Настроить...">
+<!ENTITY mainbuttonpopup.configureTT "Настроить списки">
+<!ENTITY toolbar.name "Панель">
+<!ENTITY configAdd.title "Добавить сайт">
+<!ENTITY configEdit.title "Редактировать сайт">
+<!ENTITY configAddButton.title "Добавить...">
+<!ENTITY configEditButton.title "Редактировать...">
+<!ENTITY configDeleteButton.title "Удалить">
+<!ENTITY configTabClose.caption "Закрывать вкладки перед открытием">
+<!ENTITY configTabClose.tt "При выборе этой настройки Firefox закроет все вкладке в текущем окне перед открытием сайтов из списка">
+<!ENTITY configRandom.caption "Открывать сайты в случайном порядке">
+<!ENTITY configRandom.tt "При выборе этой настройки сайты из списка будут открываться в случайном порядке">
+<!ENTITY configHomePage.caption "Открывать окно Morning Coffee вместо домашней страницы [BETA]">
+<!ENTITY configHomePage.tt "Если выбрана эта опция, при открытии новых окон браузера будет открываться окно Morning Coffee. Кнопка &quot;К началу&quot; будет продолжать работу. Данная функция еще не совсем готова.">
+<!ENTITY mainbuttonpopup.about "О Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Отображает информацию об этой версии Morning Coffee">
+<!ENTITY about.createdBy "Автор:">
+<!ENTITY about.thanks "Благодарности:">
+<!ENTITY about.translators "Переводчики:">
+<!ENTITY about.homepage "Домашняя страница:">

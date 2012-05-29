@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Öppna dina Morning Coffee-sajter i flikar">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Ladda Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Lägg till i Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Lägg till aktuell flik till My Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Varje dag">
+<!ENTITY mainbuttonpopup.everydayTT "Lägg till aktuella sida på Morning Coffee-listan">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Lägg till aktuella flikar till My Morning Coffee-lista">
+<!ENTITY mainbuttonpopup.sunday "Söndag">
+<!ENTITY mainbuttonpopup.sundayTT "Lägg till aktuell sida till söndags-Morning Coffee">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Lägg till aktuella flikar till söndags-Morning Coffee">
+<!ENTITY mainbuttonpopup.monday "Måndag">
+<!ENTITY mainbuttonpopup.mondayTT "Lägg till aktuell sida till måndags-Morning Coffee">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Lägg till aktuella flikar till måndags-Morning Coffee">
+<!ENTITY mainbuttonpopup.tuesday "Tisdag">
+<!ENTITY mainbuttonpopup.tuesdayTT "Lägg till aktuell sida till tisdags-Morning Coffee">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Lägg till aktuella flikar till tisdags-Morning Coffee">
+<!ENTITY mainbuttonpopup.wednesday "Onsdag">
+<!ENTITY mainbuttonpopup.wednesdayTT "Lägg till aktuell sida till onsdags-Morning Coffee">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Lägg till aktuella flikar till onsdags-Morning Coffee">
+<!ENTITY mainbuttonpopup.thursday "Torsdag">
+<!ENTITY mainbuttonpopup.thursdayTT "Lägg till aktuell sida till torsdags-Morning Coffee">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Lägg till aktuella flikar till torsdags-Morning Coffee">
+<!ENTITY mainbuttonpopup.friday "Fredag">
+<!ENTITY mainbuttonpopup.fridayTT "Lägg till aktuell sida till fredags-Morning Coffee">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Lägg till aktuella flikar till fredags-Morning Coffee">
+<!ENTITY mainbuttonpopup.saturday "Lördag">
+<!ENTITY mainbuttonpopup.saturdayTT "Lägg till aktuell sida till lördags-Morning Coffee">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Lägg till aktuella flikar till lördags-Morning Coffee">
+<!ENTITY mainbuttonpopup.mwf "Måndag/Onsdag/Fredag">
+<!ENTITY mainbuttonpopup.mwfTT "Lägg till aktuell sida till M/O/F-Morning Coffee">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Lägg till aktuella flikar till M/O/F-Morning Coffee">
+<!ENTITY mainbuttonpopup.tr "Tisdag/Torsdag">
+<!ENTITY mainbuttonpopup.trTT "Lägg till aktuell sida till tis/tor-Morning Coffee">
+<!ENTITY mainbuttonpopup.trTabsTT "Lägg till aktuella flikar till tis/tor-Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdays "Vardagar">
+<!ENTITY mainbuttonpopup.weekdaysTT "Lägg till aktuell sida till vardags-Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Lägg till aktuella flikar till vardags-Morning Coffee">
+<!ENTITY mainbuttonpopup.weekends "Helgdagar">
+<!ENTITY mainbuttonpopup.weekendsTT "Lägg till aktuell sida till helg-Morning Coffee">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Lägg till aktuella flikar till helg-Morning Coffee">
+<!ENTITY mainbuttonpopup.configure "Konfigurera Morning Coffee">
+<!ENTITY mainbuttonpopup.configureTT "Konfigurera Morning Coffee-listorna">
+<!ENTITY toolbar.name "Morning Coffee-vertygsfält">
+<!ENTITY configAdd.title "Morning Coffee - Lägg till URL">
+<!ENTITY configEdit.title "Morning Coffee - Redigera URL">
+<!ENTITY configAddButton.title "Lägg till...">
+<!ENTITY configEditButton.title "Redigera...">
+<!ENTITY configDeleteButton.title "Radera">
+<!ENTITY configTabClose.caption "Stäng befintliga flikar">
+<!ENTITY configTabClose.tt "Om rutan är ikryssad kommer alla befintliga flikar att stängas innan Morning Coffee laddas.">
+<!ENTITY configRandom.caption "Öppna sajter i slumpmässig ordning">
+<!ENTITY configRandom.tt "Om rutan är ikryssad kommer Morning Coffee-sajterna att öppnas i slumpmässig ordning.">
+<!ENTITY configHomePage.caption "Öppna Morning Coffee i stället för din startsida (BETA)">
+<!ENTITY configHomePage.tt "Om du väljer detta alternativ öppnas Morning Coffee varje gång du öppnar ett nytt fönster. Starsida-knappen fungerar som vanligt. Denna funktion är inte fullständigt utvecklad.">
+<!ENTITY mainbuttonpopup.about "Om Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Visa information om denna version av Morning Coffee">
+<!ENTITY about.createdBy "Skapad av:">
+<!ENTITY about.thanks "Tack till:">
+<!ENTITY about.translators "Översättare:">
+<!ENTITY about.homepage "Webbsida:">

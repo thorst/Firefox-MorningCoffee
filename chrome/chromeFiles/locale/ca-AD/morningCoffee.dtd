@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Obre les teves pàgines web Morning Coffee en pestanyes">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Carrega el meu Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Afegeix al meu Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Afegeix les pestanyes actuals al meu Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Cada dia">
+<!ENTITY mainbuttonpopup.everydayTT "Afegeix la pàgina actual a la vostra llista Morning Coffee">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Afegeix les pestanyes actuals a la vostra llista Morning Coffee">
+<!ENTITY mainbuttonpopup.sunday "Diumenge">
+<!ENTITY mainbuttonpopup.sundayTT "Afegeix la pàgina actual a la vostra llista de diumenge del Morning Coffee">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del diumenge">
+<!ENTITY mainbuttonpopup.monday "Dilluns">
+<!ENTITY mainbuttonpopup.mondayTT "Afegeix la pàgina actual a la vostra llista de dilluns del Morning Coffee">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del dilluns">
+<!ENTITY mainbuttonpopup.tuesday "Dimarts">
+<!ENTITY mainbuttonpopup.tuesdayTT "Afegeix la pàgina actual a la vostra llista de dimarts del Morning Coffee">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del dimarts">
+<!ENTITY mainbuttonpopup.wednesday "Dimecres">
+<!ENTITY mainbuttonpopup.wednesdayTT "Afegeix la pàgina actual a la vostra llista de dimecres del Morning Coffee">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del dimecres">
+<!ENTITY mainbuttonpopup.thursday "Dijous">
+<!ENTITY mainbuttonpopup.thursdayTT "Afegeix la pàgina actual a la vostra llista de dijous del Morning Coffee">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del dijous">
+<!ENTITY mainbuttonpopup.friday "Divendres">
+<!ENTITY mainbuttonpopup.fridayTT "Afegeix la pàgina actual a la vostra llista de divendres del Morning Coffee">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del divendres">
+<!ENTITY mainbuttonpopup.saturday "Dissabte">
+<!ENTITY mainbuttonpopup.saturdayTT "Afegeix la pàgina actual a la vostra llista de dissabte del Morning Coffee">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del dissabte">
+<!ENTITY mainbuttonpopup.mwf "Dilluns/Dimecres/Divendres">
+<!ENTITY mainbuttonpopup.mwfTT "Afegeix la pàgina actual al vostre Morning Coffee del Dilluns/Dimecres/Divendres">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del Dilluns/Dimecres/Divendres">
+<!ENTITY mainbuttonpopup.tr "Dimarts/Dijous">
+<!ENTITY mainbuttonpopup.trTT "Afegeix la pàgina actual al vostre Morning Coffee del Dimarts/Dijous">
+<!ENTITY mainbuttonpopup.trTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del Dimarts/Dijous">
+<!ENTITY mainbuttonpopup.weekdays "Dies laborables (Dilluns Divendres)">
+<!ENTITY mainbuttonpopup.weekdaysTT "Afegeix la pàgina actual al vostre Morning Coffee del Dilluns-Divendres">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del Dilluns-Divendres">
+<!ENTITY mainbuttonpopup.weekends "Caps de setmana">
+<!ENTITY mainbuttonpopup.weekendsTT "Afegeix la pàgina actual al vostre Morning Coffee del cap de setmana">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Afegeix les pestanyes actuals al vostre Morning Coffee del cap de setmana">
+<!ENTITY mainbuttonpopup.configure "Configura el Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "Configura la vostra llista Morning Coffee...">
+<!ENTITY toolbar.name "Eines del Morning Coffee">
+<!ENTITY configAdd.title "Morning Coffee - Afegeix pàgina">
+<!ENTITY configEdit.title "Morning Coffee - Edita pàgina">
+<!ENTITY configAddButton.title "Afegeix">
+<!ENTITY configEditButton.title "Edita">
+<!ENTITY configDeleteButton.title "Esborra">
+<!ENTITY configTabClose.caption "Tanca les pestanyes abans d&apos;obrir-lo">
+<!ENTITY configTabClose.tt "Si aquesta casella està seleccionada, el Firefox tancarà totes les pestanyes de la finestra actual abans d&apos;obrir el vostre Morning Coffee.">
+<!ENTITY configRandom.caption "Obre les pàgines en odre aleatori">
+<!ENTITY configRandom.tt "Si aquesta casella està seleccionada, el vostre Morning Coffee s&apos;obrirà en ordre aleatori.">
+<!ENTITY configHomePage.caption "Obre el Morning Coffee enlloc de la vostra pàgina d&apos;inici [característica en fase Beta]">
+<!ENTITY configHomePage.tt "Si aquesta casella està seleccionada, el vostre Morning Coffee es carregarà cada vegada que obri una nova finestra. La icona Inici funcionarà normalment. Aquesta característica no està completament desenvolupada.">
+<!ENTITY mainbuttonpopup.about "Quant al Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Mostra informació sobre aquesta versió">
+<!ENTITY about.createdBy "Creat per:">
+<!ENTITY about.thanks "Agraïments:">
+<!ENTITY about.translators "Traductors:">
+<!ENTITY about.homepage "Pàgina web:">

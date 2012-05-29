@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Åbn dine Morning Coffee websider i faneblade">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Indlæs Min Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Tilføj til Min Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Tilføj nuværende faneblade til Min Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Hver dag">
+<!ENTITY mainbuttonpopup.everydayTT "Tilføj nuværende side til din Morning Coffee liste">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Tilføj nuværende faneblade til din Morning Coffee liste">
+<!ENTITY mainbuttonpopup.sunday "Søndag">
+<!ENTITY mainbuttonpopup.sundayTT "Tilføj nuværende side til din søndags Morning Coffee">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Tilføj nuværende faneblade til din søndags Morning Coffee">
+<!ENTITY mainbuttonpopup.monday "Mandag">
+<!ENTITY mainbuttonpopup.mondayTT "Tilføj nuværende side til din mandags Morning Coffee">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Tilføj nuværende faneblade til din mandags Morning Coffee">
+<!ENTITY mainbuttonpopup.tuesday "Tirsdag">
+<!ENTITY mainbuttonpopup.tuesdayTT "Tilføj nuværende side til din tirsdags Morning Coffee">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Tilføj nuværende faneblade til din tirsdags Morning Coffee">
+<!ENTITY mainbuttonpopup.wednesday "Onsdag">
+<!ENTITY mainbuttonpopup.wednesdayTT "Tilføj nuværende side til din onsdags Morning Coffee">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Tilføj nuværende faneblade til din onsdags Morning Coffee">
+<!ENTITY mainbuttonpopup.thursday "Torsdag">
+<!ENTITY mainbuttonpopup.thursdayTT "Tilføj nuværende side til din torsdags Morning Coffee">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Tilføj nuværende faneblade til din torsdags Morning Coffee">
+<!ENTITY mainbuttonpopup.friday "Fredag">
+<!ENTITY mainbuttonpopup.fridayTT "Tilføj nuværende side til din fredags Morning Coffee">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Tilføj nuværende faneblade til din fredags Morning Coffee">
+<!ENTITY mainbuttonpopup.saturday "Lørdag">
+<!ENTITY mainbuttonpopup.saturdayTT "Tilføj nuværende side til din lørdags Morning Coffee">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Tilføj nuværende faneblade til din lørdags Morning Coffee">
+<!ENTITY mainbuttonpopup.mwf "Mandag/Onsdag/Fredag">
+<!ENTITY mainbuttonpopup.mwfTT "Tilføj nuværende side til din MOF Morning Coffee">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Tilføj nuværende faneblade til din MOF Morning Coffee">
+<!ENTITY mainbuttonpopup.tr "Tirsdag/Torsdag">
+<!ENTITY mainbuttonpopup.trTT "Tilføj nuværende side til din TT Morning Coffee">
+<!ENTITY mainbuttonpopup.trTabsTT "Tilføj nuværende faneblade til din TT Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdays "Ugedage">
+<!ENTITY mainbuttonpopup.weekdaysTT "Tilføj nuværende side til din man-fre Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Tilføj nuværende faneblade til din man-fre Morning Coffee">
+<!ENTITY mainbuttonpopup.weekends "Weekender">
+<!ENTITY mainbuttonpopup.weekendsTT "Tilføj nuværende side til din weekend Morning Coffee">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Tilføj nuværende faneblade til din weekend Morning Coffee">
+<!ENTITY mainbuttonpopup.configure "Konfigurer Morning Coffee">
+<!ENTITY mainbuttonpopup.configureTT "Konfigurer dine Morning Coffee lister">
+<!ENTITY toolbar.name "Morning Coffee værktøjslinie">
+<!ENTITY configAdd.title "Morning Coffee - tilføj URL">
+<!ENTITY configEdit.title "Morning Coffee - Ret URL">
+<!ENTITY configAddButton.title "Tilføj...">
+<!ENTITY configEditButton.title "Redigér...">
+<!ENTITY configDeleteButton.title "Slet">
+<!ENTITY configTabClose.caption "Luk faneblade før åbning">
+<!ENTITY configTabClose.tt "Hvis dette felt er afkrydset vil Firefox lukke alle faneblade i nuværende vindue før den åbner din Morning Coffee.">
+<!ENTITY configRandom.caption "Åbn sider i tilfældig orden">
+<!ENTITY configRandom.tt "Hvis dette felt er afkrydset vil din Morning Coffee åbne i tilfældig rækkefølge.">
+<!ENTITY configHomePage.caption "Åbn Morning Coffee i stedet for din hjemmeside [BETA FEATURE]">
+<!ENTITY configHomePage.tt "Hvs denne boks er afmærket vil din Morning Coffee blive indlæst hver gang du åbner et nyt vindue. Hjemmesideknappen vil fungere normalt. Denne feature er endnu ikke fuldt udviklet.">
+<!ENTITY mainbuttonpopup.about "Om Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Vis information om denne version af Morning Coffee">
+<!ENTITY about.createdBy "Skabt af:">
+<!ENTITY about.thanks "Tak til:">
+<!ENTITY about.translators "Oversættere:">
+<!ENTITY about.homepage "Hjemmeside:">

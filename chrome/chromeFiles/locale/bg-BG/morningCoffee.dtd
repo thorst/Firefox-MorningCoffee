@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Отваря страниците на Вашето Сутрешно кафе в подстраници">
+<!ENTITY mainbutton.label "Сутрешно кафе">
+<!ENTITY mainbuttonpopup.action "Зареди Моето Сутршно кафе">
+<!ENTITY mainbuttonpopup.addto "Добави към Моето Сутрешно кафе">
+<!ENTITY mainbuttonpopup.addtabs "Добави текущите подстраници към Моето Сутршно кафе">
+<!ENTITY mainbuttonpopup.everyday "Всеки ден">
+<!ENTITY mainbuttonpopup.everydayTT "Доабвя текущата страница към списъка на Вашето Сутршно кафе">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Добавя текущите подстраници към списъка на Вашето Сутршно кафе">
+<!ENTITY mainbuttonpopup.sunday "Неделя">
+<!ENTITY mainbuttonpopup.sundayTT "Добавя текущата страница към Вашето Сутрешно кафе в неделя">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в неделя">
+<!ENTITY mainbuttonpopup.monday "понеделник">
+<!ENTITY mainbuttonpopup.mondayTT "Добавя текущата страница към Вашето Сутрешно кафе в понеделник">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в понеделник">
+<!ENTITY mainbuttonpopup.tuesday "вторник">
+<!ENTITY mainbuttonpopup.tuesdayTT "Добавя текущата страница към Вашето Сутрешно кафе във вторник">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе във вторник">
+<!ENTITY mainbuttonpopup.wednesday "сряда">
+<!ENTITY mainbuttonpopup.wednesdayTT "Добавя текущата страница към Вашето Сутрешно кафе в сряда">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в сряда">
+<!ENTITY mainbuttonpopup.thursday "четвъртък">
+<!ENTITY mainbuttonpopup.thursdayTT "Добавя текущата страница към Вашето Сутрешно кафе в четвъртък">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в четвъртък">
+<!ENTITY mainbuttonpopup.friday "петък">
+<!ENTITY mainbuttonpopup.fridayTT "Добавя текущата страница към Вашето Сутрешно кафе в петък">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в петък">
+<!ENTITY mainbuttonpopup.saturday "събота">
+<!ENTITY mainbuttonpopup.saturdayTT "Добавя текущата страница към Вашето Сутрешно кафе в събота">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в събота">
+<!ENTITY mainbuttonpopup.mwf "понеделник/сряда/петък">
+<!ENTITY mainbuttonpopup.mwfTT "Добавя текущата страница към Вашето Сутрешно кафе в пн/ср/пт">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в пн/ср/пт">
+<!ENTITY mainbuttonpopup.tr "вторник/четвъртък">
+<!ENTITY mainbuttonpopup.trTT "Добавя текущата страница към Вашето Сутрешно кафе в вт/чт">
+<!ENTITY mainbuttonpopup.trTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в вт/чт">
+<!ENTITY mainbuttonpopup.weekdays "работни дни">
+<!ENTITY mainbuttonpopup.weekdaysTT "Добавя текущата страница към Вашето Сутрешно кафе в пн-пт">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в пн-пт">
+<!ENTITY mainbuttonpopup.weekends "почивни дни">
+<!ENTITY mainbuttonpopup.weekendsTT "Добавя текущата страница към Вашето Сутрешно кафе в сб-нд">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Добавя текущите подстраници към Вашето Сутрешно кафе в сб-нд">
+<!ENTITY mainbuttonpopup.configure "Настройване на Вашето Сутршно кафе">
+<!ENTITY mainbuttonpopup.configureTT "Настройване на списъци на Вашето Сутршно кафе">
+<!ENTITY toolbar.name "Лента с бутони на Сутршно кафе">
+<!ENTITY configAdd.title "Сутршно кафе - добавяне на URL">
+<!ENTITY configEdit.title "Сутршно кафе - редакция на URL">
+<!ENTITY configAddButton.title "Добави...">
+<!ENTITY configEditButton.title "Редактирай...">
+<!ENTITY configDeleteButton.title "Изтрии">
+<!ENTITY configTabClose.caption "Затвори подстраниците преди да отвориш.">
+<!ENTITY configTabClose.tt "Ако тази опция е включена, Firefox ще затвори всички подстраници в текущия прозорец преди да отвори Вашето Сутршно кафе.">
+<!ENTITY configRandom.caption "Отваря сайтовете в произволен ред.">
+<!ENTITY configRandom.tt "Ако тази опция е включена, Вашето Сутрешно кафе ще се отваря в произволен ред.">
+<!ENTITY configHomePage.caption "Отваря Сутрешното кафе вместо Вашата Начална страница [в процес на тестване]">
+<!ENTITY configHomePage.tt "Ако тази опция е включена, Вашето Сутрешно кафе ще бъде заредено при отваряне на нов прозорец. Бутонът за Началната страница ще функционира нормално. Тази възможност не довършена напълно.">
+<!ENTITY mainbuttonpopup.about "За Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Показва информация за версията на Сутрешно кафе">
+<!ENTITY about.createdBy "Създадено от:">
+<!ENTITY about.thanks "Благодарности:">
+<!ENTITY about.translators "Преводачи:">
+<!ENTITY about.homepage "Страница в интернет:">

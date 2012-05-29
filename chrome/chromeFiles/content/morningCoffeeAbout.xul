@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Morning Coffee.
+   -
+   - The Initial Developer of the Original Code is
+   - Shane J. M. Liesegang.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Jed Brown, Tony Gentilcore
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!DOCTYPE overlay SYSTEM "chrome://morningcoffee/locale/morningCoffee.dtd">
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<window class="dialog"
+	title="Morning Coffee"
+	orient="vertical"
+	autostretch="always"
+	onload="sizeToContent()"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<groupbox align="start" orient="horizontal" style="background: #FFFFFF">
+<vbox>
+  <text value="Morning Coffee" style="font-weight: bold; font-size: x-large;"/>
+  <text value="ver. 1.3"/>
+  <separator class="thin"/>
+  <text value="&about.createdBy;" style="font-weight: bold;"/>
+  <text value="Shane J. M. Liesegang" class="url"
+        onmouseover="this.style.cursor='pointer';"
+	onclick="window.open('http://www.shaneliesegang.com/misc/coffee.php'); window.close();"/>
+  <separator class="thin"/>
+  <text value="&about.thanks;" style="font-weight: bold;"/>
+  <text value="Matthew Schmidt" class="url"/>
+  <text value="Eric Zarko" class="url"/>
+  <separator class="thin"/>
+  <text value="&about.translators;" style="font-weight: bold;"/>
+  <text value="български език: stefan_gk (babelzilla.org)" class="url"/>
+  <text value="Català: cargol (babelzilla.org)" class="url"/>
+  <text value="Dansk: Finn Skjerning Sørensen" class="url"/>
+  <text value="Deutsch: Uwe Schlenther" class="url"/>
+  <text value="Ελληνικά: Sonickydon (babelzilla.org)" class="url"/>
+  <text value="Español (Argentina y España): ZuGro (babelzilla.org)" class="url"/>
+  <text value="Français: La Luciole (babelzilla.org)" class="url"/>
+  <text value="Gaelige: Seanán (babelzilla.org) " class="url"/>
+  <text value="Galego: mendinho (babelzilla.org) " class="url"/>
+  <text value="Hrvatski: Krcko (babelzilla.org)" class="url"/>
+  <text value="Bahasa Indonesia: Joe Liem" class="url"/>
+  <text value="Italiano: Jeff Kozlowicki, l0stintranslation (babelzilla.org)" class="url"/>
+  <text value="한국어: netaras (babelzilla.org)" class="url"/>
+  <text value="Magyar: FARKAS Máté" class="url"/>
+  <text value="Nederlands: Mark Heijl" class="url"/>
+  <text value="日本語: rhodus (babelzilla.org)" class="url"/>
+  <text value="Polski: Leszek(teo)Zyczkowski" class="url"/>
+  <text value="Português-Brasil: pedsann (babelzilla.org)" class="url"/>
+  <text value="Português: softclean (babelzilla.org)" class="url"/>
+  <text value="Русский: Timur Timirkhanov" class="url"/>
+  <text value="Slovenčina: miles (babelzilla.org) " class="url"/>
+  <text value="Suomi: AtteL (babelzilla.org) " class="url"/>
+  <text value="Svenska: Carlos Murakami" class="url"/>
+  <text value="﻿Українська: MozUA (babelzilla.org)" class="url"/>
+  <text value="简化字: fiag (babelzilla.org)" class="url"/>
+  <text value="正體字: winiah (babelzilla.org)" class="url"/>
+  <separator class="thin"/>
+    <text value="&about.homepage;" style="font-weight: bold;"/>
+    <text value="http://www.shaneliesegang.com/misc/coffee.php"
+          class="url"
+        onmouseover="this.style.cursor='pointer';"
+        onclick="window.open('http://www.shaneliesegang.com/misc/coffee.php'); window.close();"/>
+  <separator class="thin"/>
+</vbox> 
+<vbox>
+  <separator />
+  <image src="chrome://morningcoffee/skin/icon_big.png"/>
+</vbox>
+</groupbox>
+  <hbox>
+  <spacer flex="1"/>
+   <button label="Close" oncommand="window.close();"/>
+  </hbox>
+</window>
+

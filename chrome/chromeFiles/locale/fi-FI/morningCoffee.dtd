@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Avaa Morning Coffee -sivut uusiin välilehtiin">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Lataa Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Lisää Morning Coffee -listalle">
+<!ENTITY mainbuttonpopup.addtabs "Lisää nykyiset välilehdet Morning Coffee -listalle">
+<!ENTITY mainbuttonpopup.everyday "Joka päivä">
+<!ENTITY mainbuttonpopup.everydayTT "Lisää nykyinen sivu Mornin Coffee -listalle">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Lisää nykyiset välilehdet Morning Coffee -listalle">
+<!ENTITY mainbuttonpopup.sunday "Sunnuntai">
+<!ENTITY mainbuttonpopup.sundayTT "Lisää nykyinen sivu sunnuntaille">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Lisää nykyiset välilehdet sunnuntaille">
+<!ENTITY mainbuttonpopup.monday "Maanantai">
+<!ENTITY mainbuttonpopup.mondayTT "Lisää nykyinen sivu maanantaille">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Lisää nykyiset välilehdet maanantaille">
+<!ENTITY mainbuttonpopup.tuesday "Tiistai">
+<!ENTITY mainbuttonpopup.tuesdayTT "Lisää nykyinen sivu tiistaille">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Lisää nykyiset välilehdet tiistaille">
+<!ENTITY mainbuttonpopup.wednesday "Keskiviikko">
+<!ENTITY mainbuttonpopup.wednesdayTT "Lisää nykyinen sivu keskiviikolle">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Lisää nykyiset välilehdet keskiviikolle">
+<!ENTITY mainbuttonpopup.thursday "Torstai">
+<!ENTITY mainbuttonpopup.thursdayTT "Lisää nykyinen sivu torstaille">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Lisää nykyiset välilehdet torstaille">
+<!ENTITY mainbuttonpopup.friday "Perjantai">
+<!ENTITY mainbuttonpopup.fridayTT "Lisää nykyinen sivu perjantaille">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Lisää nykyiset välilehdet perjantaille">
+<!ENTITY mainbuttonpopup.saturday "Lauantai">
+<!ENTITY mainbuttonpopup.saturdayTT "Lisää nykyinen sivu lauantaille">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Lisää nykyiset välilehdet lauantaille">
+<!ENTITY mainbuttonpopup.mwf "Maanantai/Keskiviikko/Perjantai (MKP)">
+<!ENTITY mainbuttonpopup.mwfTT "Lisää nykyinen sivu MKP:lle">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Lisää nykyiset välilehdet MKP:lle">
+<!ENTITY mainbuttonpopup.tr "Tiistai/Torstai (TT)">
+<!ENTITY mainbuttonpopup.trTT "Lisää nykyinen sivu TT:lle">
+<!ENTITY mainbuttonpopup.trTabsTT "Lisää nykyiset välilehdet TT:lle">
+<!ENTITY mainbuttonpopup.weekdays "Maanantai-Perjantai (M-P)">
+<!ENTITY mainbuttonpopup.weekdaysTT "Lisää nykyinen sivu M-P:lle">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Lisää nykyiset välilehdet M-P:lle">
+<!ENTITY mainbuttonpopup.weekends "Viikonloppu">
+<!ENTITY mainbuttonpopup.weekendsTT "Lisää nykyinen sivu viikonlopulle">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Lisää nykyiset välilehdet viikonlopulle">
+<!ENTITY mainbuttonpopup.configure "Muokkaa Morning Coffeeta...">
+<!ENTITY mainbuttonpopup.configureTT "Muokkaa Morning Coffee -listoja">
+<!ENTITY toolbar.name "Morning Coffee Työkalupalkki">
+<!ENTITY configAdd.title "Morning Coffee - Lisää osoite">
+<!ENTITY configEdit.title "Morning Coffee - Muokkaa osoitetta">
+<!ENTITY configAddButton.title "Lisää...">
+<!ENTITY configEditButton.title "Muokkaa...">
+<!ENTITY configDeleteButton.title "Poista">
+<!ENTITY configTabClose.caption "Sulje välilehdet ennen avaamista">
+<!ENTITY configTabClose.tt "Jos tämä ruutu on valittuna, Firefox sulkee kaikki välilehdet nykyisestä ikkunasta ennen Morning Coffeen avaamista.">
+<!ENTITY configRandom.caption "Avaa sivut satunnaisessa järjestyksessä">
+<!ENTITY configRandom.tt "Jos tämä ruutu on valittuna, sivut aukeavat satunnaisessa järjestyksessä.">
+<!ENTITY configHomePage.caption "Avaa Morning Coffee aloitussivun sijaan [BETA-OMINAISUUS]">
+<!ENTITY configHomePage.tt "Jos tämä ruutu on valittuna, Morning Coffee aukeaa aina kun avaat uuden ikkunan. Aloitussivu-painike toimii silti normaalisti.">
+<!ENTITY mainbuttonpopup.about "Tietoja Morning Coffeesta...">
+<!ENTITY mainbuttonpopup.aboutTT "Näyttää Morning Coffeen tämän version tiedot">
+<!ENTITY about.createdBy "Luonut:">
+<!ENTITY about.thanks "Kiitokset:">
+<!ENTITY about.translators "Kääntäjät:">
+<!ENTITY about.homepage "Kotisivu:">

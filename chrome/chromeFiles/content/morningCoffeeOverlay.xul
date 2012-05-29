@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Morning Coffee.
+   -
+   - The Initial Developer of the Original Code is
+   - Shane J. M. Liesegang.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Eric Zarko
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!DOCTYPE overlay SYSTEM "chrome://morningcoffee/locale/morningCoffee.dtd">
+<?xml-stylesheet type="text/css" href="chrome://morningcoffee/skin/morningCoffee.css"?>
+	
+<overlay id="MorningCoffee-Overlay" 
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+	<script type="application/x-javascript"
+		src="chrome://morningCoffee/content/morningCoffee.js"/>
+	
+	<toolbarpalette id="BrowserToolbarPalette">
+		<toolbarbutton id="MorningCoffee-button" type="menu-button" accesskey="M"
+			class="toolbarbutton-1 chromeclass-toolbar-additional"
+			label="&mainbutton.label;" tooltiptext="&mainbutton.tooltip;"
+			oncommand="morningCoffee_main.LoadUp(event)">
+			<menupopup>
+				<menuitem label="&mainbuttonpopup.action;" tooltiptext="&mainbutton.tooltip;"
+					oncommand="morningCoffee_main.LoadUp(event); event.stopPropagation();"
+					id="MorningCoffee-LoadUp"/>
+				<menu label="&mainbuttonpopup.loadfrom;">
+					<menupopup>
+						<menuitem label="&mainbuttonpopup.sunday;" tooltiptext="&mainbuttonpopup.mondayTT;"
+							oncommand="morningCoffee_main.LoadUp(event, 'U'); event.stopPropagation();"
+								id="MorningCoffee-LoadUpU"/>
+						<menuitem label="&mainbuttonpopup.monday;" tooltiptext="&mainbuttonpopup.mondayTT;"
+							oncommand="morningCoffee_main.LoadUp(event, 'M'); event.stopPropagation();"
+								id="MorningCoffee-LoadUpM"/>
+						<menuitem label="&mainbuttonpopup.tuesday;" tooltiptext="&mainbuttonpopup.tuesdayTT;"
+							oncommand="morningCoffee_main.LoadUp(event, 'T'); event.stopPropagation();"
+							id="MorningCoffee-LoadUpT"/>
+						<menuitem label="&mainbuttonpopup.wednesday;" tooltiptext="&mainbuttonpopup.wednesdayTT;"
+							oncommand="morningCoffee_main.LoadUp(event, 'W'); event.stopPropagation();"
+							id="MorningCoffee-LoadUpW"/>
+						<menuitem label="&mainbuttonpopup.thursday;" tooltiptext="&mainbuttonpopup.thursdayTT;"
+							oncommand="morningCoffee_main.LoadUp(event, 'R'); event.stopPropagation();"
+							id="MorningCoffee-LoadUpR"/>
+						<menuitem label="&mainbuttonpopup.friday;" tooltiptext="&mainbuttonpopup.fridayTT;"
+							oncommand="morningCoffee_main.LoadUp(event, 'F'); event.stopPropagation();"
+							id="MorningCoffee-LoadUpF"/>
+						<menuitem label="&mainbuttonpopup.saturday;" tooltiptext="&mainbuttonpopup.mondayTT;"
+							oncommand="morningCoffee_main.LoadUp(event, 'A'); event.stopPropagation();"
+								id="MorningCoffee-LoadUpA"/>
+					</menupopup>
+				</menu>
+				<menu label="&mainbuttonpopup.addto;">
+					<menupopup>
+						<menuitem label="&mainbuttonpopup.everyday;" tooltiptext="&mainbuttonpopup.everydayTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'Z'); event.stopPropagation();"
+							id="MorningCoffee-AddToZ" />
+						<menuitem label="&mainbuttonpopup.sunday;" tooltiptext="&mainbuttonpopup.sundayTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'U'); event.stopPropagation();" 
+							id="MorningCoffee-AddToU"/>
+						<menuitem label="&mainbuttonpopup.monday;" tooltiptext="&mainbuttonpopup.mondayTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'M'); event.stopPropagation();" 
+								id="MorningCoffee-AddToM"/>
+						<menuitem label="&mainbuttonpopup.tuesday;" tooltiptext="&mainbuttonpopup.tuesdayTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'T'); event.stopPropagation();" 
+							id="MorningCoffee-AddToR"/>
+						<menuitem label="&mainbuttonpopup.wednesday;" tooltiptext="&mainbuttonpopup.wednesdayTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'W'); event.stopPropagation();" 
+							id="MorningCoffee-AddToW"/>
+						<menuitem label="&mainbuttonpopup.thursday;" tooltiptext="&mainbuttonpopup.thursdayTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'R'); event.stopPropagation();" 
+							id="MorningCoffee-AddToR"/>
+						<menuitem label="&mainbuttonpopup.friday;" tooltiptext="&mainbuttonpopup.fridayTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'F'); event.stopPropagation();" 
+							id="MorningCoffee-AddToF"/>
+						<menuitem label="&mainbuttonpopup.saturday;" tooltiptext="&mainbuttonpopup.saturdayTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'A'); event.stopPropagation();" 
+							id="MorningCoffee-AddToA"/>
+
+						<menuseparator />
+
+						<menuitem label="&mainbuttonpopup.mwf;" tooltiptext="&mainbuttonpopup.mwfTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'MWF'); event.stopPropagation();" 
+							id="MorningCoffee-AddToMWF" class="menuitem-iconic"/>
+						<menuitem label="&mainbuttonpopup.tr;" tooltiptext="&mainbuttonpopup.trTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'TR'); event.stopPropagation();" 
+							id="MorningCoffee-AddToTR" class="menuitem-iconic"/>
+						<menuitem label="&mainbuttonpopup.weekdays;" tooltiptext="&mainbuttonpopup.weekdaysTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'MTWRF'); event.stopPropagation();"
+							id="MorningCoffee-AddToWeekdays" class="menuitem-iconic"/>
+						<menuitem label="&mainbuttonpopup.weekends;" tooltiptext="&mainbuttonpopup.weekendsTT;"
+							oncommand="morningCoffee_main.AddTo(event, 'UA'); event.stopPropagation();"
+							id="MorningCoffee-AddToWeekends" class="menuitem-iconic"/>
+					</menupopup>
+				</menu>
+				<menu label="&mainbuttonpopup.addtabs;">
+					<menupopup>
+						<menuitem label="&mainbuttonpopup.everyday;" tooltiptext="&mainbuttonpopup.everydayTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'Z'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-Z" />
+						<menuitem label="&mainbuttonpopup.sunday;" tooltiptext="&mainbuttonpopup.sundayTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'U'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-U" />
+						<menuitem label="&mainbuttonpopup.monday;" tooltiptext="&mainbuttonpopup.mondayTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'M'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-M" />
+						<menuitem label="&mainbuttonpopup.tuesday;" tooltiptext="&mainbuttonpopup.tuesdayTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'T'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-T" />
+						<menuitem label="&mainbuttonpopup.wednesday;" tooltiptext="&mainbuttonpopup.wednesdayTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'W'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-W" />
+						<menuitem label="&mainbuttonpopup.thursday;" tooltiptext="&mainbuttonpopup.thursdayTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'R'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-R" />
+						<menuitem label="&mainbuttonpopup.friday;" tooltiptext="&mainbuttonpopup.fridayTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'F'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-F" />
+						<menuitem label="&mainbuttonpopup.saturday;" tooltiptext="&mainbuttonpopup.saturdayTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'A'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-A" />
+
+						<menuseparator />
+
+						<menuitem label="&mainbuttonpopup.mwf;" tooltiptext="&mainbuttonpopup.mwfTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'MWF'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-MWF" />
+						<menuitem label="&mainbuttonpopup.tr;" tooltiptext="&mainbuttonpopup.trTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'TR'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-TR" />
+						<menuitem label="&mainbuttonpopup.weekdays;" tooltiptext="&mainbuttonpopup.weekdaysTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'MTWRF'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-Weekdays" />
+						<menuitem label="&mainbuttonpopup.weekends;" tooltiptext="&mainbuttonpopup.weekendsTabsTT;"
+							oncommand="morningCoffee_main.AddTabs(event, 'UA'); event.preventBubble();"
+							id="MorningCoffee-AddTabs-Weekends" />
+					</menupopup>
+				</menu>
+				<menuitem label="&mainbuttonpopup.configure;" tooltiptext="&mainbuttonpopup.configureTT;"
+					oncommand="morningCoffee_main.Configure(); event.stopPropagation();"
+					id="MorningCoffee-Configure"/>
+				
+				<menuseparator />
+				
+				<menuitem label="&mainbuttonpopup.about;" tooltiltext="&mainbuttonpopup.aboutTT;"
+					oncommand="morningCoffee_main.About(); event.stopPropagation();"
+					id="MorningCoffee-About"/>
+			</menupopup>
+		</toolbarbutton>
+	</toolbarpalette>
+
+</overlay>

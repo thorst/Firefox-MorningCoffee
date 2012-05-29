@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Abrir os sites do Morning Coffee em separadores">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Carregar o meu Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Adicionar ao Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Adicionar separadores actuais ao meu Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Todos os dias">
+<!ENTITY mainbuttonpopup.everydayTT "Adicionar a página actual à sua lista do Morning Coffee">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Adicionar os separadores actuais à sua lista do Morning Coffee">
+<!ENTITY mainbuttonpopup.sunday "Domingo">
+<!ENTITY mainbuttonpopup.sundayTT "Adicionar a página actual ao seu Morning Coffee de Domingo">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de Domingo">
+<!ENTITY mainbuttonpopup.monday "2ª feira">
+<!ENTITY mainbuttonpopup.mondayTT "Adicionar a página actual ao seu Morning Coffee de 2ª feira">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de 2ª feira">
+<!ENTITY mainbuttonpopup.tuesday "3ª feira">
+<!ENTITY mainbuttonpopup.tuesdayTT "Adicionar a página actual ao seu Morning Coffee de 3ª feira">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de 3ª feira">
+<!ENTITY mainbuttonpopup.wednesday "4ª feira">
+<!ENTITY mainbuttonpopup.wednesdayTT "Adicionar a página actual ao seu Morning Coffee de 4ª feira">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de 4ª feira">
+<!ENTITY mainbuttonpopup.thursday "5ª feira">
+<!ENTITY mainbuttonpopup.thursdayTT "Adicionar a página actual ao seu Morning Coffee de 5ª feira">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de 5ª feira">
+<!ENTITY mainbuttonpopup.friday "6ª feira">
+<!ENTITY mainbuttonpopup.fridayTT "Adicionar a página actual ao seu Morning Coffee de 6ª feira">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de 6ª feira">
+<!ENTITY mainbuttonpopup.saturday "Sábado">
+<!ENTITY mainbuttonpopup.saturdayTT "Adicionar a página actual ao seu Morning Coffee de Sábado">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de Sábado">
+<!ENTITY mainbuttonpopup.mwf "2ª feira/4ª feira/6ª feira">
+<!ENTITY mainbuttonpopup.mwfTT "Adicionar a página actual ao seu Morning Coffee de 2ª, 4ª e 6ª feira">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de 2ª, 4ª e 6ª feira">
+<!ENTITY mainbuttonpopup.tr "3ª feira/5ª feira">
+<!ENTITY mainbuttonpopup.trTT "Adicionar a página actual ao seu Morning Coffee de 3ª e 5ª feira">
+<!ENTITY mainbuttonpopup.trTabsTT "Adicionar os separadores actuais ao seu Morning Coffee de 3ª e 5ª feira">
+<!ENTITY mainbuttonpopup.weekdays "Dias da semana">
+<!ENTITY mainbuttonpopup.weekdaysTT "Adicionar a página actual ao seu Morning Coffee dos dias da semana">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Adicionar os separadores actuais ao seu Morning Coffee dos dias da semana">
+<!ENTITY mainbuttonpopup.weekends "Fins de semana">
+<!ENTITY mainbuttonpopup.weekendsTT "Adicionar a página actual ao seu Morning Coffee dos fins de semana">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Adicionar os separadores actuais ao seu Morning Coffee dos fins de semana">
+<!ENTITY mainbuttonpopup.configure "Configurar o Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "Configurar as suas listas do Morning Coffee">
+<!ENTITY toolbar.name "Barra de ferramentas do Morning Coffee">
+<!ENTITY configAdd.title "Morning Coffee - Adicionar URL">
+<!ENTITY configEdit.title "Morning Coffee - Editar URL">
+<!ENTITY configAddButton.title "Adicionar...">
+<!ENTITY configEditButton.title "Editar...">
+<!ENTITY configDeleteButton.title "Eliminar">
+<!ENTITY configTabClose.caption "Fechar separadores antes de abrir">
+<!ENTITY configTabClose.tt "Se esta caixa estiver seleccionada, o Firefox irá fechar todos os separadores da janela actual antes de abrir o seu Morning Coffee.">
+<!ENTITY configRandom.caption "Abrir sites em ordem aleatória">
+<!ENTITY configRandom.tt "Se esta caixa estiver seleccionada, o seu Morning Coffee irá abrir em ordem aleatória.">
+<!ENTITY configHomePage.caption "Abrir o Morning Coffee em vez da sua página inicial [FUNCIONALIDADE BETA]">
+<!ENTITY configHomePage.tt "Se esta caixa estiver seleccionada, o seu Morning Coffee irá ser carregado sempre que abrir uma nova janela. O botão da página principal irá funcionar normalmente. Esta funcionalidade ainda não está comlpetamente desenvolvida.">
+<!ENTITY mainbuttonpopup.about "Acerca do Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Mostrar informação acerca desta versão do Morning Coffee">
+<!ENTITY about.createdBy "Criado por:">
+<!ENTITY about.thanks "Agradecimentos a:">
+<!ENTITY about.translators "Tradutores:">
+<!ENTITY about.homepage "Home Page:">

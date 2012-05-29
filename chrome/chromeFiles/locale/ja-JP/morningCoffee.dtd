@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Morning Coffee に保存したサイトをタブで開きます。">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Morning Coffee を読み込む">
+<!ENTITY mainbuttonpopup.addto "Morning Coffee に追加">
+<!ENTITY mainbuttonpopup.addtabs "全てのタブを Morning Coffee に追加">
+<!ENTITY mainbuttonpopup.everyday "毎日">
+<!ENTITY mainbuttonpopup.everydayTT "現在のページを Morning Coffee のリストに追加します。">
+<!ENTITY mainbuttonpopup.everydayTabsTT "全てのタブを Morning Coffee のリストに追加します。">
+<!ENTITY mainbuttonpopup.sunday "日曜日">
+<!ENTITY mainbuttonpopup.sundayTT "現在のページを日曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.sundayTabsTT "全てのタブを日曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.monday "月曜日">
+<!ENTITY mainbuttonpopup.mondayTT "現在のページを月曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.mondayTabsTT "全てのタブを月曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.tuesday "火曜日">
+<!ENTITY mainbuttonpopup.tuesdayTT "現在のページを火曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "全てのタブを火曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.wednesday "水曜日">
+<!ENTITY mainbuttonpopup.wednesdayTT "現在のページを水曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "全てのタブを水曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.thursday "木曜日">
+<!ENTITY mainbuttonpopup.thursdayTT "現在のページを木曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "全てのタブを木曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.friday "金曜日">
+<!ENTITY mainbuttonpopup.fridayTT "現在のページを金曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.fridayTabsTT "全てのタブを金曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.saturday "土曜日">
+<!ENTITY mainbuttonpopup.saturdayTT "現在のページを土曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "全てのタブを土曜日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.mwf "月/水/金">
+<!ENTITY mainbuttonpopup.mwfTT "現在のページを月水金の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.mwfTabsTT "全てのタブを月水金の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.tr "火/木">
+<!ENTITY mainbuttonpopup.trTT "現在のページを火木の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.trTabsTT "全てのタブを火木の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.weekdays "平日">
+<!ENTITY mainbuttonpopup.weekdaysTT "現在のページを平日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "全てのタブを平日の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.weekends "週末">
+<!ENTITY mainbuttonpopup.weekendsTT "現在のページを週末の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "全てのタブを週末の Morning Coffee に追加します。">
+<!ENTITY mainbuttonpopup.configure "Morning Coffee を設定する">
+<!ENTITY mainbuttonpopup.configureTT "Morning Coffee のリストを設定します。">
+<!ENTITY toolbar.name "Morning Coffee ツールバー">
+<!ENTITY configAdd.title "Morning Coffee | URL を追加">
+<!ENTITY configEdit.title "Morning Coffee | URL を編集">
+<!ENTITY configAddButton.title "追加...">
+<!ENTITY configEditButton.title "編集...">
+<!ENTITY configDeleteButton.title "削除">
+<!ENTITY configTabClose.caption "開く前にタブを閉じる">
+<!ENTITY configTabClose.tt "チェックすると、Morning Coffee を開く前に Firefox は全てのタブを閉じます。">
+<!ENTITY configRandom.caption "ランダムにサイトを開く">
+<!ENTITY configRandom.tt "チェックすると、ランダムな順番で開きます。">
+<!ENTITY configHomePage.caption "ホームページの代わりに Morning Coffee を開く [ベータ機能]">
+<!ENTITY configHomePage.tt "選択すると、新規ウィンドウを開くときに、Morning Coffee が起動されます。 ホームページボタンは普通に使えます。 この機能はまだベータです。">
+<!ENTITY mainbuttonpopup.about "Morning Coffee について...">
+<!ENTITY mainbuttonpopup.aboutTT "バージョン情報">
+<!ENTITY about.createdBy "開発者：">
+<!ENTITY about.thanks "謝辞：">
+<!ENTITY about.translators "翻訳者：">
+<!ENTITY about.homepage "ホームページ：">

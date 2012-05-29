@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Reggeli kávé oldalaid megnyitása lapokon">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "A reggeli kávém betöltése">
+<!ENTITY mainbuttonpopup.addto "Hozzáadás a reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.addtabs "Nyitott lapok hozzáadása a reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.everyday "Minden nap">
+<!ENTITY mainbuttonpopup.everydayTT "A jelenlegi oldal hozzáadása a mindennapi reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.everydayTabsTT "A nyitott lapok hozzáadása a mindennapi reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.sunday "Vasárnap">
+<!ENTITY mainbuttonpopup.sundayTT "A jelenlegi oldal hozzáadása a vasárnapi reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.sundayTabsTT "A nyitott lapok hozzáadása a vasárnap reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.monday "Hétfő">
+<!ENTITY mainbuttonpopup.mondayTT "A jelenlegi oldal hozzáadása a hétfő reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.mondayTabsTT "A nyitott lapok hozzáadása a hétfő reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.tuesday "Kedd">
+<!ENTITY mainbuttonpopup.tuesdayTT "A jelenlegi oldal hozzáadása a kedd reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "A nyitott lapok hozzáadása a kedd reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.wednesday "Szerda">
+<!ENTITY mainbuttonpopup.wednesdayTT "A jelenlegi oldal hozzáadása a szerda reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "A nyitott lapok hozzáadása a szerda reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.thursday "Csütörtök">
+<!ENTITY mainbuttonpopup.thursdayTT "A jelenlegi oldal hozzáadása a csütörtök reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "A nyitott lapok hozzáadása a csütörtök reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.friday "Péntek">
+<!ENTITY mainbuttonpopup.fridayTT "A jelenlegi oldal hozzáadása a péntek reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.fridayTabsTT "A nyitott lapok hozzáadása a péntek reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.saturday "Szombat">
+<!ENTITY mainbuttonpopup.saturdayTT "A jelenlegi oldal hozzáadása a szombat reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "A nyitott lapok hozzáadása a szombat reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.mwf "Hétfő/Szerda/Péntek">
+<!ENTITY mainbuttonpopup.mwfTT "A jelenlegi oldal hozzáadása a HSzP reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.mwfTabsTT "A nyitott lapok hozzáadása a HSzP reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.tr "Kedd/Csütörtök">
+<!ENTITY mainbuttonpopup.trTT "A jelenlegi oldal hozzáadása a KCs reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.trTabsTT "A nyitott lapok hozzáadása a KCs reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.weekdays "Hétköznapok">
+<!ENTITY mainbuttonpopup.weekdaysTT "A jelenlegi oldal hozzáadása a hétköznap reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "A nyitott lapok hozzáadása a hétköznap reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.weekends "Hétvége">
+<!ENTITY mainbuttonpopup.weekendsTT "A jelenlegi oldal hozzáadása a hétvégi kávémhoz">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "A nyitott lapok hozzáadása a hétvégi reggeli kávémhoz">
+<!ENTITY mainbuttonpopup.configure "A Morning Coffee beállítása...">
+<!ENTITY mainbuttonpopup.configureTT "A reggeli kávé listák beállítása">
+<!ENTITY toolbar.name "Morning Coffee eszköztár">
+<!ENTITY configAdd.title "MorningCoffee - URL hozzáadása">
+<!ENTITY configEdit.title "Morning Coffee - URL szerkesztése">
+<!ENTITY configAddButton.title "Hozzáadás...">
+<!ENTITY configEditButton.title "Szerkesztés...">
+<!ENTITY configDeleteButton.title "Törlés">
+<!ENTITY configTabClose.caption "Lapok bezárása megnyitás előtt">
+<!ENTITY configTabClose.tt "Ha ez be van jelölve, a Firefox bezár minden lapot a jelenlegi ablakban, mielőtt megnyitná a reggeli kávé oldalakat.">
+<!ENTITY configRandom.caption "Honlapok megnyitása véletlenszerű sorrendben">
+<!ENTITY configRandom.tt "Ha be van jelölve, a reggeli kávéhoz tartozó oldalak véletlen sorrendben jelennek meg.">
+<!ENTITY configHomePage.caption "Reggeli kávé megnyitása a kezdőlap helyett [Béta funkció]">
+<!ENTITY configHomePage.tt "Amennyiben ez az opció engedélyezett, minden új ablak megnyitásakor a reggeli kávé kerül betöltésre. A kezdőlap gomb működése nem változik. Ez a funkció még nincs teljesen készen.">
+<!ENTITY mainbuttonpopup.about "Morning Coffee névjegye...">
+<!ENTITY mainbuttonpopup.aboutTT "Információk a Morning Coffee jelenlegi verziójáról">
+<!ENTITY about.createdBy "Készítette:">
+<!ENTITY about.thanks "Köszönet illeti:">
+<!ENTITY about.translators "Fordítók:">
+<!ENTITY about.homepage "Honlap:">

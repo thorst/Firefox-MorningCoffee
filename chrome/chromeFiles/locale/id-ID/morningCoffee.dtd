@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Membuka Morning Coffee website anda dengan tabs">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Memuati My Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Menambah ke My Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Add current tabs to My Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Setiap Hari">
+<!ENTITY mainbuttonpopup.everydayTT "Menambah halaman kini ke daftar Morning Coffee anda">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Add current tabs to your Morning Coffee list">
+<!ENTITY mainbuttonpopup.sunday "Minggu">
+<!ENTITY mainbuttonpopup.sundayTT "Menambah halaman kini ke daftar Minggu Morning Coffee anda">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Add current tabs to your Sunday Morning Coffee">
+<!ENTITY mainbuttonpopup.monday "Senin">
+<!ENTITY mainbuttonpopup.mondayTT "Menambah halaman kini ke daftar Senin Morning Coffee anda">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Add current tabs to your Monday Morning Coffee">
+<!ENTITY mainbuttonpopup.tuesday "Selasa">
+<!ENTITY mainbuttonpopup.tuesdayTT "Menambah halaman kini ke daftar Selasa Morning Coffee anda">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Add current tabs to your Tuesday Morning Coffee">
+<!ENTITY mainbuttonpopup.wednesday "Rabu">
+<!ENTITY mainbuttonpopup.wednesdayTT "Menambah halaman kini ke daftar Rabu Morning Coffee anda">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Add current tabs to your Wednesday Morning Coffee">
+<!ENTITY mainbuttonpopup.thursday "Kamis">
+<!ENTITY mainbuttonpopup.thursdayTT "Menambah halaman kini ke daftar Kamis Morning Coffee anda">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Add current tabs to your Thursday Morning Coffee">
+<!ENTITY mainbuttonpopup.friday "Jumat">
+<!ENTITY mainbuttonpopup.fridayTT "Menambah halaman kini ke daftar Jumat Morning Coffee anda">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Add current tabs to your Friday Morning Coffee">
+<!ENTITY mainbuttonpopup.saturday "Sabtu">
+<!ENTITY mainbuttonpopup.saturdayTT "Menambah halaman kini ke daftar Sabtu Morning Coffee anda">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Add current tabs to your Saturday Morning Coffee">
+<!ENTITY mainbuttonpopup.mwf "Senin/Rabu/Jumat">
+<!ENTITY mainbuttonpopup.mwfTT "Menambah halaman kini ke daftar Senin-Rabu-Jumat Morning Coffee anda">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Add current tabs to your MWF Morning Coffee">
+<!ENTITY mainbuttonpopup.tr "Selasa/Kamis">
+<!ENTITY mainbuttonpopup.trTT "Menambah halaman kini ke daftar Selasa-Kamis Morning Coffee anda">
+<!ENTITY mainbuttonpopup.trTabsTT "Add current tabs to your TR Morning Coffee">
+<!ENTITY mainbuttonpopup.weekdays "Hari biasa">
+<!ENTITY mainbuttonpopup.weekdaysTT "Menambah halaman kini ke daftar Senin-Selasa-Rabu-Kamis-Jumat Morning Coffee anda">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Add current tabs to M-F Sunday Morning Coffee">
+<!ENTITY mainbuttonpopup.weekends "Hari libur">
+<!ENTITY mainbuttonpopup.weekendsTT "Menambah halaman kini ke daftar hari libur Morning Coffee anda">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Add current tabs to your weekend Morning Coffee">
+<!ENTITY mainbuttonpopup.configure "Konfigur Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "Konfigur daftar Morning Coffee anda">
+<!ENTITY toolbar.name "Morning Coffee Toolbar">
+<!ENTITY configAdd.title "Morning Coffee - Tambah URL">
+<!ENTITY configEdit.title "Morning Coffee - Edit URL">
+<!ENTITY configAddButton.title "Tambah...">
+<!ENTITY configEditButton.title "Edit...">
+<!ENTITY configDeleteButton.title "Hapus">
+<!ENTITY configTabClose.caption "Tutup Tabs Sebelum Membuka">
+<!ENTITY configTabClose.tt "Jika kotak ini sudah ditanda, Firefox akan menutup semua Tabs di browser kini sebelum membuka Morning Coffee anda.">
+<!ENTITY configRandom.caption "Membuka Situs Secara Urutan Tidak Teratur">
+<!ENTITY configRandom.tt "Jika kotak ini sudah ditanda, Morning Coffee anda akan dibuka secara urutan tidak teratur.">
+<!ENTITY configHomePage.caption "Open Morning Coffee instead of your home page [BETA FEATURE]">
+<!ENTITY configHomePage.tt "If this box is checked, your Morning Coffee will be loaded whenever you open a new window. The home page button will function normally. This feature is not yet fully mature.">
+<!ENTITY mainbuttonpopup.about "Menyangkut Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Memperlihatkan informasi tentang versi Morning Coffee tersebut">
+<!ENTITY about.createdBy "Dibuat oleh:">
+<!ENTITY about.thanks "Terima Kasih:">
+<!ENTITY about.translators "Penerjemah:">
+<!ENTITY about.homepage "Home Page:">

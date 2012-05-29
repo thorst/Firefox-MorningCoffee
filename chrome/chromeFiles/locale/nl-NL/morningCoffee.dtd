@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Open uw Morning Coffee websites in tabbladen">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Mijn Morning Coffee laden">
+<!ENTITY mainbuttonpopup.addto "Aan Mijn Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.addtabs "Huidige tabbladen aan Mijn Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.everyday "Elke dag">
+<!ENTITY mainbuttonpopup.everydayTT "Huidige pagina aan uw Morning Coffee lijst toevoegen">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Huidige tabbladen aan uw Morning Coffee lijst toevoegen">
+<!ENTITY mainbuttonpopup.sunday "Zondag">
+<!ENTITY mainbuttonpopup.sundayTT "Huidige pagina aan uw zondagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Huidige tabbladen aan uw zondagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.monday "Maandag">
+<!ENTITY mainbuttonpopup.mondayTT "Huidige pagina aan uw maandagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Huidige tabbladen aan uw maandagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.tuesday "Dinsdag">
+<!ENTITY mainbuttonpopup.tuesdayTT "Huidige pagina aan uw dinsdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Huidige tabbladen aan uw dinsdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.wednesday "Woensdag">
+<!ENTITY mainbuttonpopup.wednesdayTT "Huidige pagina aan uw woensdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Huidige tabbladen aan uw woensdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.thursday "Donderdag">
+<!ENTITY mainbuttonpopup.thursdayTT "Huidige pagina aan uw donderdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Huidige tabbladen aan uw donderdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.friday "Vrijdag">
+<!ENTITY mainbuttonpopup.fridayTT "Huidige pagina aan uw vrijdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Huidige tabbladen aan uw vrijdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.saturday "Zaterdag">
+<!ENTITY mainbuttonpopup.saturdayTT "Huidige pagina aan uw zaterdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Huidige tabbladen aan uw zaterdagse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.mwf "Maandag/woensdag/vrijdag">
+<!ENTITY mainbuttonpopup.mwfTT "Huidige pagina aan uw Morning Coffee op MWV toevoegen">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Huidige tabbladen aan uw Morning Coffee op MWV toevoegen">
+<!ENTITY mainbuttonpopup.tr "Dinsdag/donderdag">
+<!ENTITY mainbuttonpopup.trTT "Huidige pagina aan uw Morning Coffee op DD toevoegen">
+<!ENTITY mainbuttonpopup.trTabsTT "Huidige tabbladen aan uw Morning Coffee op DD toevoegen">
+<!ENTITY mainbuttonpopup.weekdays "Doordeweeks">
+<!ENTITY mainbuttonpopup.weekdaysTT "Huidige pagina aan uw doordeweekse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Huidige tabbladen aan uw doordeweekse Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.weekends "Weekenden">
+<!ENTITY mainbuttonpopup.weekendsTT "Huidige pagina aan uw weekend Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Huidige tabbladen aan uw weekend Morning Coffee toevoegen">
+<!ENTITY mainbuttonpopup.configure "Morning Coffee configureren...">
+<!ENTITY mainbuttonpopup.configureTT "Configureer uw Morning Coffee lijsten">
+<!ENTITY toolbar.name "Morning Coffee taakbalk">
+<!ENTITY configAdd.title "Morning Coffee - URL toevoegen">
+<!ENTITY configEdit.title "Morning Coffee - URL wijzigen">
+<!ENTITY configAddButton.title "Toevoegen..">
+<!ENTITY configEditButton.title "Wijzigen...">
+<!ENTITY configDeleteButton.title "Verwijderen">
+<!ENTITY configTabClose.caption "Tabbladen sluiten voor openen">
+<!ENTITY configTabClose.tt "Indien aangevinkt zal FF alle tabbladen in het huidige venster sluiten voordat uw Morning Coffee wordt geopend.">
+<!ENTITY configRandom.caption "Sites in willekeurige volgorde openen">
+<!ENTITY configRandom.tt "Indien aangevinkt zal Morning Coffee in een willekeurige volgorde openen.">
+<!ENTITY configHomePage.caption "Morning Coffee in plaats van uw startpagina openen [BETA FEATURE]">
+<!ENTITY configHomePage.tt "Als dit vakje is aangevinkt zal Morning Coffee worden geladen wanneer u een nieuw venster opent. De startpagina-knop zal normaal functioneren. Deze mogelijkheid is nog niet helemaal uitgerijpt!">
+<!ENTITY mainbuttonpopup.about "Over Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Informatie over deze versie van Morning Coffee tonen">
+<!ENTITY about.createdBy "Gemaakt door:">
+<!ENTITY about.thanks "Met dank aan:">
+<!ENTITY about.translators "Vertalers:">
+<!ENTITY about.homepage "Homepage:">

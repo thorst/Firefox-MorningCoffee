@@ -1,0 +1,61 @@
+<!ENTITY mainbutton.tooltip "Ouvrir dans des onglets les sites Web de votre Morning Coffee">
+<!ENTITY mainbutton.label "Morning Coffee">
+<!ENTITY mainbuttonpopup.action "Charger mon Morning Coffee">
+<!ENTITY mainbuttonpopup.addto "Ajouter à mon Morning Coffee">
+<!ENTITY mainbuttonpopup.addtabs "Ajouter les onglets courants à mon Morning Coffee">
+<!ENTITY mainbuttonpopup.everyday "Tous les jours">
+<!ENTITY mainbuttonpopup.everydayTT "Ajouter la page courante dans la liste de votre Morning Coffee">
+<!ENTITY mainbuttonpopup.everydayTabsTT "Ajouter les onglets courants dans la liste de votre Morning Coffee">
+<!ENTITY mainbuttonpopup.sunday "Dimanche">
+<!ENTITY mainbuttonpopup.sundayTT "Ajouter la page courante à votre Morning Coffee du dimanche">
+<!ENTITY mainbuttonpopup.sundayTabsTT "Ajouter les onglets courants à votre Morning Coffee du dimanche">
+<!ENTITY mainbuttonpopup.monday "Lundi">
+<!ENTITY mainbuttonpopup.mondayTT "Ajouter la page courante à votre Morning Coffee du lundi">
+<!ENTITY mainbuttonpopup.mondayTabsTT "Ajouter les onglets courants à votre Morning Coffee du lundi">
+<!ENTITY mainbuttonpopup.tuesday "Mardi">
+<!ENTITY mainbuttonpopup.tuesdayTT "Ajouter la page courante à votre Morning Coffee du mardi">
+<!ENTITY mainbuttonpopup.tuesdayTabsTT "Ajouter les onglets courants à votre Morning Coffee du mardi">
+<!ENTITY mainbuttonpopup.wednesday "Mercredi">
+<!ENTITY mainbuttonpopup.wednesdayTT "Ajouter la page courante à votre Morning Coffee du mercredi">
+<!ENTITY mainbuttonpopup.wednesdayTabsTT "Ajouter les onglets courants à votre Morning Coffee du mercredi">
+<!ENTITY mainbuttonpopup.thursday "Jeudi">
+<!ENTITY mainbuttonpopup.thursdayTT "Ajouter la page courante à votre Morning Coffee du jeudi">
+<!ENTITY mainbuttonpopup.thursdayTabsTT "Ajouter les onglets courants à votre Morning Coffee du jeudi">
+<!ENTITY mainbuttonpopup.friday "Vendredi">
+<!ENTITY mainbuttonpopup.fridayTT "Ajouter la page courante à votre Morning Coffee du vendredi">
+<!ENTITY mainbuttonpopup.fridayTabsTT "Ajouter les onglets courants à votre Morning Coffee du vendredi">
+<!ENTITY mainbuttonpopup.saturday "Samedi">
+<!ENTITY mainbuttonpopup.saturdayTT "Ajouter la page courante à votre Morning Coffee du samedi">
+<!ENTITY mainbuttonpopup.saturdayTabsTT "Ajouter les onglets courants à votre Morning Coffee du samedi">
+<!ENTITY mainbuttonpopup.mwf "Lundi/mercredi/vendredi">
+<!ENTITY mainbuttonpopup.mwfTT "Ajouter la page courante à votre Morning Coffee du lundi/mercredi/vendredi">
+<!ENTITY mainbuttonpopup.mwfTabsTT "Ajouter les onglets courants à votre Morning Coffee du lundi/mercredi/vendredi">
+<!ENTITY mainbuttonpopup.tr "Mardi/jeudi">
+<!ENTITY mainbuttonpopup.trTT "Ajouter la page courante à votre Morning Coffee du mardi/jeudi">
+<!ENTITY mainbuttonpopup.trTabsTT "Ajouter les onglets courants à votre Morning Coffee du mardi/jeudi">
+<!ENTITY mainbuttonpopup.weekdays "Jours ouvrables">
+<!ENTITY mainbuttonpopup.weekdaysTT "Ajouter la page courante à votre Morning Coffee des jours ouvrables">
+<!ENTITY mainbuttonpopup.weekdaysTabsTT "Ajouter les onglets courants à votre Morning Coffee des jours ouvrables">
+<!ENTITY mainbuttonpopup.weekends "Week-ends">
+<!ENTITY mainbuttonpopup.weekendsTT "Ajouter la page courante à votre Morning Coffe du week-end">
+<!ENTITY mainbuttonpopup.weekendsTabsTT "Ajouter les onglets courants à votre Morning Coffee du week-end">
+<!ENTITY mainbuttonpopup.configure "Configurer Morning Coffee...">
+<!ENTITY mainbuttonpopup.configureTT "Configurer vos listes de Morning Coffee">
+<!ENTITY toolbar.name "Barre d&apos;outils de Morning Coffee">
+<!ENTITY configAdd.title "Morning Coffee - Ajouter l&apos;URL">
+<!ENTITY configEdit.title "Morning Coffee - Éditer l&apos;URL">
+<!ENTITY configAddButton.title "Ajouter...">
+<!ENTITY configEditButton.title "Éditer...">
+<!ENTITY configDeleteButton.title "Supprimer">
+<!ENTITY configTabClose.caption "Fermer tous les onglets avant d&apos;ouvrir">
+<!ENTITY configTabClose.tt "Si cette option est cochée, Firefox fermera tous les onglets dans la fenêtre courante avant d&apos;ouvrir votre Morning Coffee.">
+<!ENTITY configRandom.caption "Ouvrir les sites dans un ordre aléatoire">
+<!ENTITY configRandom.tt "Si cette option est cochée, les sites de votre Morning Coffee s&apos;ouvriront dans un ordre aléatoire.">
+<!ENTITY configHomePage.caption "Ouvrir votre Morning coffee à la place de votre page d&apos;accueil [option bêta]">
+<!ENTITY configHomePage.tt "Si cette option est cochée, votre Morning Coffee sera chargé à chaque ouverture d&apos;une nouvelle fenêtre. Le bouton de la page d&apos;accueil fonctionnera normalement. Cette option n&apos;est pas encore entièrement opérationnelle.">
+<!ENTITY mainbuttonpopup.about "À propos de Morning Coffee...">
+<!ENTITY mainbuttonpopup.aboutTT "Afficher les informations sur cette version de Morning Coffee">
+<!ENTITY about.createdBy "Créée par :">
+<!ENTITY about.thanks "Merci à :">
+<!ENTITY about.translators "Traducteurs :">
+<!ENTITY about.homepage "Page Web :">
